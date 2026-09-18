@@ -7,3 +7,6 @@ how it’s shaping the kind of scientist I want to become.
 ##PubChem Fetcher
 This script searches for compounds through PubChemPy and will display  its molecular weight, formula, SMILES, PubChem
 CID, charge, XLogP, and hydrogen bond donor and acceptor count.
+
+##Percent Lost
+This script performs list-wise deletion on the alkane dataset by removing the rows that have missing values. It then calculates the percentage of the original dataset that was lost
