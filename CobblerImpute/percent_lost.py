@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the dataset
-df = pd.read_csv("../alkane_dataset.csv")
+df = pd.read_csv("alkane_dataset.csv")
 
 # Count how many rows we started with
 original_rows = len(df)

@@ -8,7 +8,7 @@ from sklearn.metrics import mean_absolute_error
 
 
 # Load the dataset
-df = pd.read_csv("../alkane_dataset.csv")
+df = pd.read_csv("alkane_dataset.csv")
 
 
 # Property we want to predict/impute
