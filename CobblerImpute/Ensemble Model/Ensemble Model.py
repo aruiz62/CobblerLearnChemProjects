@@ -3,22 +3,25 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.neighbors import KNeighborsRegressor
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error
 
 
 # =====================================
-# CHANGE RANDOM FOREST DEPTH HERE
+# SETTINGS YOU CAN CHANGE
 # =====================================
-MAX_DEPTH = 15
 
-# Change 5 to 15, 20, etc. whenever needed
+K_NEIGHBORS = 5
+MAX_DEPTH = 5
 
 
 # =====================================
 # LOAD DATA
 # =====================================
-df = pd.read_csv("alkane_dataset.csv")
+
+df = pd.read_csv("../alkane_dataset.csv")
 
 data = df[
     ["carbons", "branch number", "viscosity"]
@@ -28,6 +31,7 @@ data = df[
 # =====================================
 # FEATURES AND TARGET
 # =====================================
+
 X = data[
     ["carbons", "branch number"]
 ]
@@ -37,8 +41,9 @@ y = np.log1p(data["viscosity"])
 
 
 # =====================================
-# SPLIT TRAINING AND TESTING DATA
+# TRAIN / TEST SPLIT
 # =====================================
+
 X_train, X_test, y_train, y_test = train_test_split(
     X,
     y,
@@ -48,57 +53,100 @@ X_train, X_test, y_train, y_test = train_test_split(
 
 
 # =====================================
-# CREATE RANDOM FOREST MODEL
+# MODEL 1: LINEAR REGRESSION
 # =====================================
-model = RandomForestRegressor(
+
+linear_model = LinearRegression()
+
+linear_model.fit(
+    X_train,
+    y_train
+)
+
+linear_predictions = linear_model.predict(X_test)
+
+
+# =====================================
+# MODEL 2: KNN
+# =====================================
+
+knn_model = KNeighborsRegressor(
+    n_neighbors=K_NEIGHBORS
+)
+
+knn_model.fit(
+    X_train,
+    y_train
+)
+
+knn_predictions = knn_model.predict(X_test)
+
+
+# =====================================
+# MODEL 3: RANDOM FOREST
+# =====================================
+
+rf_model = RandomForestRegressor(
     n_estimators=100,
     max_depth=MAX_DEPTH,
     random_state=42
 )
 
+rf_model.fit(
+    X_train,
+    y_train
+)
 
-# Train the model
-model.fit(X_train, y_train)
+rf_predictions = rf_model.predict(X_test)
 
 
 # =====================================
-# MAKE PREDICTIONS
+# ENSEMBLE AVERAGE
 # =====================================
-predicted = model.predict(X_test)
+
+ensemble_predictions = (
+    linear_predictions
+    + knn_predictions
+    + rf_predictions
+) / 3
 
 
 # =====================================
 # CALCULATE MAE
 # =====================================
+
 mae = mean_absolute_error(
     y_test,
-    predicted
+    ensemble_predictions
 )
 
-print(f"Maximum Tree Depth: {MAX_DEPTH}")
+print("Ensemble Average Model")
+print(f"KNN Neighbors: {K_NEIGHBORS}")
+print(f"Random Forest Depth: {MAX_DEPTH}")
 print(f"MAE: {mae:.4f}")
 
 
 # =====================================
-# CREATE PREDICTION QUALITY GRAPH
+# PREDICTION QUALITY GRAPH
 # =====================================
+
 plt.figure(figsize=(7, 6))
 
 plt.scatter(
     y_test,
-    predicted
+    ensemble_predictions
 )
 
 
 # Perfect prediction line
 minimum = min(
     y_test.min(),
-    predicted.min()
+    ensemble_predictions.min()
 )
 
 maximum = max(
     y_test.max(),
-    predicted.max()
+    ensemble_predictions.max()
 )
 
 plt.plot(
@@ -109,17 +157,19 @@ plt.plot(
 )
 
 
-# Graph labels
+# =====================================
+# GRAPH LABELS
+# =====================================
+
 plt.xlabel("Actual")
 plt.ylabel("Predicted")
 
 plt.title(
-    f"Random Forest Prediction Quality\n"
-    f"Maximum Tree Depth = {MAX_DEPTH}"
+    "Ensemble Model Prediction Quality"
 )
 
 
-# Put MAE directly on graph
+# Put MAE on graph
 plt.text(
     0.05,
     0.92,
@@ -128,16 +178,16 @@ plt.text(
     fontsize=12
 )
 
-
 plt.legend()
 plt.tight_layout()
 
 
 # =====================================
-# SAVE GRAPH AUTOMATICALLY
+# SAVE GRAPH
 # =====================================
+
 plt.savefig(
-    f"random_forest_depth{MAX_DEPTH}.png",
+    "ensemble_model.png",
     dpi=300,
     bbox_inches="tight"
 )

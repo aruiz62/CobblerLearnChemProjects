@@ -7,7 +7,7 @@ from sklearn.neighbors import KNeighborsRegressor
 
 K_NEIGHBORS = 5
 
-df = pd.read_csv("alkane_dataset.csv")
+df = pd.read_csv("../alkane_dataset.csv")
 
 data = df[["carbons", "branch number", "viscosity"]].dropna()
 

@@ -3,9 +3,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
+from sklearn.ensemble import RandomForestRegressor
 
-df = pd.read_csv("alkane_dataset.csv")
+MAX_DEPTH = 5
+
+df = pd.read_csv("../alkane_dataset.csv")
 
 data = df[["carbons", "branch number", "viscosity"]].dropna()
 
@@ -18,7 +20,12 @@ X_train, X_test, y_train, y_test = train_test_split(
     random_state=42
 )
 
-model = LinearRegression()
+model = RandomForestRegressor(
+    n_estimators=100,
+    max_depth=MAX_DEPTH,
+    random_state=42
+)
+
 model.fit(X_train, y_train)
 
 predicted_log = model.predict(X_test)
@@ -30,22 +37,27 @@ relative_error = ((predicted - actual) / actual) * 100
 
 plt.figure(figsize=(7, 6))
 
-plt.scatter(X_test["carbons"], relative_error)
+plt.scatter(
+    X_test["branch number"],
+    relative_error
+)
 
 plt.axhline(0, linestyle="--", label="0% Error")
 plt.axhline(100, linestyle=":")
 plt.axhline(-100, linestyle=":")
 
-plt.xlabel("Carbons")
+plt.xlabel("Branch Number")
 plt.ylabel("Relative Error (%)")
 
-plt.title("Log-Linear Regression\nBias vs. Carbons")
+plt.title(
+    f"Random Forest (Depth = {MAX_DEPTH})\nBias vs. Branching"
+)
 
 plt.legend()
 plt.tight_layout()
 
 plt.savefig(
-    "linear_bias_vs_carbons.png",
+    f"random_forest_depth{MAX_DEPTH}_bias_vs_branching.png",
     dpi=300,
     bbox_inches="tight"
 )

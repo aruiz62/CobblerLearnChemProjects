@@ -19,7 +19,7 @@ MAX_DEPTH = 5
 # LOAD DATA
 # =====================================
 
-df = pd.read_csv("alkane_dataset.csv")
+df = pd.read_csv("../alkane_dataset.csv")
 
 
 # Clean column names

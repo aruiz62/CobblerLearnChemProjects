@@ -8,7 +8,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 
 # Load the dataset
-df = pd.read_csv("alkane_dataset.csv")
+df = pd.read_csv("../alkane_dataset.csv")
 
 
 # Property we want to predict

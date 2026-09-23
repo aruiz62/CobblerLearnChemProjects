@@ -3,11 +3,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestRegressor
+from sklearn.linear_model import LinearRegression
 
-MAX_DEPTH = 5
-
-df = pd.read_csv("alkane_dataset.csv")
+df = pd.read_csv("../alkane_dataset.csv")
 
 data = df[["carbons", "branch number", "viscosity"]].dropna()
 
@@ -20,12 +18,7 @@ X_train, X_test, y_train, y_test = train_test_split(
     random_state=42
 )
 
-model = RandomForestRegressor(
-    n_estimators=100,
-    max_depth=MAX_DEPTH,
-    random_state=42
-)
-
+model = LinearRegression()
 model.fit(X_train, y_train)
 
 predicted_log = model.predict(X_test)
@@ -46,15 +39,13 @@ plt.axhline(-100, linestyle=":")
 plt.xlabel("Carbons")
 plt.ylabel("Relative Error (%)")
 
-plt.title(
-    f"Random Forest (Depth = {MAX_DEPTH})\nBias vs. Carbons"
-)
+plt.title("Log-Linear Regression\nBias vs. Carbons")
 
 plt.legend()
 plt.tight_layout()
 
 plt.savefig(
-    f"random_forest_depth{MAX_DEPTH}_bias_vs_carbons.png",
+    "linear_bias_vs_carbons.png",
     dpi=300,
     bbox_inches="tight"
 )

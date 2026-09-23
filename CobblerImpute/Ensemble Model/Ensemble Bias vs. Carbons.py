@@ -10,7 +10,7 @@ from sklearn.ensemble import RandomForestRegressor
 K_NEIGHBORS = 5
 MAX_DEPTH = 5
 
-df = pd.read_csv("alkane_dataset.csv")
+df = pd.read_csv("../alkane_dataset.csv")
 
 data = df[["carbons", "branch number", "viscosity"]].dropna()
 
