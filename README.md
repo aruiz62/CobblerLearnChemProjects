@@ -10,3 +10,8 @@ CID, charge, XLogP, and hydrogen bond donor and acceptor count.
 
 ##Percent Lost
 This script performs list-wise deletion on the alkane dataset by removing the rows that have missing values. It then calculates the percentage of the original dataset that was lost
+
+#Chapter 7
+
+
+##Chapter 8
