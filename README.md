@@ -12,6 +12,6 @@ CID, charge, XLogP, and hydrogen bond donor and acceptor count.
 This script performs list-wise deletion on the alkane dataset by removing the rows that have missing values. It then calculates the percentage of the original dataset that was lost
 
 #Chapter 7
-
+In this chapter, I used different machine learning techniques and models to predict chemical properties of alkanes as well as how to impute missing values. I ran the KNN, Log-Linear regression, Random Forest, and Ensemble models and compared them to see how well each one performed. I also ran data from the titanic dataset. I modified my script to adjust for any missing ages and data. I then coded for a correlation table between the different factors given on the dataset.
 
 ##Chapter 8
