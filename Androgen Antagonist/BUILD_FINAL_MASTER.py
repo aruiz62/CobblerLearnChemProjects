@@ -5,11 +5,11 @@ import re
 # FILE NAMES
 # ============================================================
 
-bla_primary_file = "AID_2283395_datatable_all.csv"
-bla_viability_file = "AID_2283392_datatable_all.csv"
+bla_primary_file = "AR BLA ANTAGONIST RATIO.csv"
+bla_viability_file = "AR BLA ANTAGONIST VIABILITY.csv"
 
-mdakb2_primary_file = "AID_2283747_datatable_all.csv"
-mdakb2_viability_file = "AID_2283748_datatable_all.csv"
+mdakb2_primary_file = "AR LUC MDA-KB2 ANTAGONIST.csv"
+mdakb2_viability_file = "MDA-KB2 ANTAGONIST VIABILITY.csv"
 
 
 # ============================================================

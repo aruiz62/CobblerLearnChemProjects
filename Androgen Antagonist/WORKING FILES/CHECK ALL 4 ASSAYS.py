@@ -2,10 +2,10 @@ import pandas as pd
 import re
 
 files = [
-    "AID_2283392_datatable_all.csv",
-    "AID_2283395_datatable_all.csv",
-    "AID_2283747_datatable_all.csv",
-    "AID_2283748_datatable_all.csv"
+    "AR BLA ANTAGONIST VIABILITY.csv",
+    "AR BLA ANTAGONIST RATIO.csv",
+    "AR LUC MDA-KB2 ANTAGONIST.csv",
+    "MDA-KB2 ANTAGONIST VIABILITY.csv"
 ]
 
 for file in files:

@@ -5,7 +5,7 @@ import re
 # CHECK AID 2283392 FOR DTXSIDs
 # =========================================================
 
-file = "../AID_2283392_datatable_all.csv"
+file = "../AR BLA ANTAGONIST VIABILITY.csv"
 
 # Skip PubChem metadata rows
 df = pd.read_csv(file, skiprows=[1, 2, 3, 4])

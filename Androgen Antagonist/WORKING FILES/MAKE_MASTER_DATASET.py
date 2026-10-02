@@ -6,10 +6,10 @@ import re
 # --------------------------------------------------
 
 files = {
-    "BLA_PRIMARY": "AID_2283395_datatable_all.csv",
-    "BLA_VIABILITY": "AID_2283392_datatable_all.csv",
-    "MDAKB2_PRIMARY": "AID_2283747_datatable_all.csv",
-    "MDAKB2_VIABILITY": "AID_2283748_datatable_all.csv"
+    "BLA_PRIMARY": "AR BLA ANTAGONIST RATIO.csv",
+    "BLA_VIABILITY": "AR BLA ANTAGONIST VIABILITY.csv",
+    "MDAKB2_PRIMARY": "AR LUC MDA-KB2 ANTAGONIST.csv",
+    "MDAKB2_VIABILITY": "MDA-KB2 ANTAGONIST VIABILITY.csv"
 }
 
 
