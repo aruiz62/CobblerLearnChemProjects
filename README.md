@@ -14,11 +14,11 @@ In this chapter, I used different machine learning techniques and models to pred
 ##Chapter 8
 In this chapter, I used different regression models to look at how close the predicted values were to the actual values. I calculated MAE and R² and made graphs for predicted vs actual values and residuals. I also compared different datasets to see how errors can affect how well a model performs.
 
-## Chapter 9
+#Chapter 9
 I worked with decision trees and Random Forest models. I learned how things like the root node, leaf nodes, and tree depth affect how the model makes predictions and how if a tree is too deep, it can cause overfitting and make it perform worse on new data.
 
-## Chapter 10
+##Chapter 10
 In this chapter, I worked with K-Means clustering and KNN models using chemical data. We used atomic radius and electronegativity and normalized the values before running the models. We also saw how changing the number of clusters or the value of K can change the results and compared the groups made by the model to actual chemical families.
 
-## Androgen Antagonist Project
+##Androgen Antagonist Project
 I worked with Tox21 androgen antagonist data. I used two primary androgen antagonist assays and their matching viability assays. I used Python to match the chemicals by DTXSID, check for any duplicates, and combine everything into one master dataset. I also looked at active and inactive results and missing values. Any missing values were treated as unavailable instead of inactive. I also made a data dictionary to explain the columns in my final dataset.
