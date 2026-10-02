@@ -1,14 +1,34 @@
-Variable,Description,Units
-DTXSID,EPA DSSTox Substance Identifier used to match chemicals across assays.,Identifier
-BLA_PRIMARY_PUBCHEM_ACTIVITY_OUTCOME,Activity classification for the AR BLA antagonist primary assay.,Categorical
-BLA_PRIMARY_AC50,Concentration producing 50% of the assay response in the BLA primary assay.,µM
-BLA_PRIMARY_HITC,Hit-call value associated with the BLA primary assay.,Unitless
-BLA_PRIMARY_BMD,Benchmark dose/concentration value reported for the BLA primary assay.,µM
-BLA_VIABILITY_PUBCHEM_ACTIVITY_OUTCOME,Viability activity classification used as a QA check for the BLA assay.,Categorical
-BLA_VIABILITY_AC50,Concentration producing 50% response in the BLA viability assay.,µM
-MDAKB2_PRIMARY_PUBCHEM_ACTIVITY_OUTCOME,Activity classification for the AR MDA-KB2 antagonist primary assay.,Categorical
-MDAKB2_PRIMARY_AC50,Concentration producing 50% of the assay response in the MDA-KB2 primary assay.,µM
-MDAKB2_PRIMARY_HITC,Hit-call value associated with the MDA-KB2 primary assay.,Unitless
-MDAKB2_PRIMARY_BMD,Benchmark dose/concentration value reported for the MDA-KB2 primary assay.,µM
-MDAKB2_VIABILITY_PUBCHEM_ACTIVITY_OUTCOME,Viability activity classification used as a QA check for the MDA-KB2 assay.,Categorical
-MDAKB2_VIABILITY_AC50,Concentration producing 50% response in the MDA-KB2 viability assay.,µM
+Variable,Assay,Description,Units
+DTXSID,Chemical Identifier,EPA DSSTox Substance Identifier used to match the same chemical across assay datasets.,Identifier
+BLA_PRIMARY_PUBCHEM_SID,TOX21_AR_BLA_Antagonist_ratio,PubChem Substance Identifier (SID) for the tested substance.,Identifier
+BLA_PRIMARY_PUBCHEM_CID,TOX21_AR_BLA_Antagonist_ratio,PubChem Compound Identifier (CID) associated with the chemical.,Identifier
+BLA_PRIMARY_PUBCHEM_EXT_DATASOURCE_SMILES,TOX21_AR_BLA_Antagonist_ratio,SMILES representation of the chemical structure supplied in the PubChem assay data.,Structure string
+BLA_PRIMARY_PUBCHEM_ACTIVITY_OUTCOME,TOX21_AR_BLA_Antagonist_ratio,PubChem activity classification for the primary androgen receptor antagonist assay.,Categorical
+BLA_PRIMARY_PUBCHEM_ACTIVITY_SCORE,TOX21_AR_BLA_Antagonist_ratio,PubChem activity score associated with the assay result.,Unitless score
+BLA_PRIMARY_AC50,TOX21_AR_BLA_Antagonist_ratio,Concentration producing 50% of the measured assay response.,µM
+BLA_PRIMARY_HITC,TOX21_AR_BLA_Antagonist_ratio,Hit-call value associated with the assay activity classification.,Unitless
+BLA_PRIMARY_BMD,TOX21_AR_BLA_Antagonist_ratio,Benchmark dose or concentration value reported for the assay.,µM
+BLA_VIABILITY_PUBCHEM_SID,TOX21_AR_BLA_Antagonist_viability,PubChem Substance Identifier (SID) for the tested substance.,Identifier
+BLA_VIABILITY_PUBCHEM_CID,TOX21_AR_BLA_Antagonist_viability,PubChem Compound Identifier (CID) associated with the chemical.,Identifier
+BLA_VIABILITY_PUBCHEM_EXT_DATASOURCE_SMILES,TOX21_AR_BLA_Antagonist_viability,SMILES representation of the chemical structure supplied in the PubChem assay data.,Structure string
+BLA_VIABILITY_PUBCHEM_ACTIVITY_OUTCOME,TOX21_AR_BLA_Antagonist_viability,PubChem activity classification for the viability assay. Used as quality-assessment information rather than receptor activity.,Categorical
+BLA_VIABILITY_PUBCHEM_ACTIVITY_SCORE,TOX21_AR_BLA_Antagonist_viability,PubChem activity score associated with the assay result.,Unitless score
+BLA_VIABILITY_AC50,TOX21_AR_BLA_Antagonist_viability,Concentration producing 50% of the measured assay response.,µM
+BLA_VIABILITY_HITC,TOX21_AR_BLA_Antagonist_viability,Hit-call value associated with the assay activity classification.,Unitless
+BLA_VIABILITY_BMD,TOX21_AR_BLA_Antagonist_viability,Benchmark dose or concentration value reported for the assay.,µM
+MDAKB2_PRIMARY_PUBCHEM_SID,TOX21_AR_LUC_MDAKB2_Antagonist_0.5nM_R1881,PubChem Substance Identifier (SID) for the tested substance.,Identifier
+MDAKB2_PRIMARY_PUBCHEM_CID,TOX21_AR_LUC_MDAKB2_Antagonist_0.5nM_R1881,PubChem Compound Identifier (CID) associated with the chemical.,Identifier
+MDAKB2_PRIMARY_PUBCHEM_EXT_DATASOURCE_SMILES,TOX21_AR_LUC_MDAKB2_Antagonist_0.5nM_R1881,SMILES representation of the chemical structure supplied in the PubChem assay data.,Structure string
+MDAKB2_PRIMARY_PUBCHEM_ACTIVITY_OUTCOME,TOX21_AR_LUC_MDAKB2_Antagonist_0.5nM_R1881,PubChem activity classification for the primary androgen receptor antagonist assay.,Categorical
+MDAKB2_PRIMARY_PUBCHEM_ACTIVITY_SCORE,TOX21_AR_LUC_MDAKB2_Antagonist_0.5nM_R1881,PubChem activity score associated with the assay result.,Unitless score
+MDAKB2_PRIMARY_AC50,TOX21_AR_LUC_MDAKB2_Antagonist_0.5nM_R1881,Concentration producing 50% of the measured assay response.,µM
+MDAKB2_PRIMARY_HITC,TOX21_AR_LUC_MDAKB2_Antagonist_0.5nM_R1881,Hit-call value associated with the assay activity classification.,Unitless
+MDAKB2_PRIMARY_BMD,TOX21_AR_LUC_MDAKB2_Antagonist_0.5nM_R1881,Benchmark dose or concentration value reported for the assay.,µM
+MDAKB2_VIABILITY_PUBCHEM_SID,TOX21_AR_LUC_MDAKB2_Antagonist_0.5nM_R1881_viability,PubChem Substance Identifier (SID) for the tested substance.,Identifier
+MDAKB2_VIABILITY_PUBCHEM_CID,TOX21_AR_LUC_MDAKB2_Antagonist_0.5nM_R1881_viability,PubChem Compound Identifier (CID) associated with the chemical.,Identifier
+MDAKB2_VIABILITY_PUBCHEM_EXT_DATASOURCE_SMILES,TOX21_AR_LUC_MDAKB2_Antagonist_0.5nM_R1881_viability,SMILES representation of the chemical structure supplied in the PubChem assay data.,Structure string
+MDAKB2_VIABILITY_PUBCHEM_ACTIVITY_OUTCOME,TOX21_AR_LUC_MDAKB2_Antagonist_0.5nM_R1881_viability,PubChem activity classification for the viability assay. Used as quality-assessment information rather than receptor activity.,Categorical
+MDAKB2_VIABILITY_PUBCHEM_ACTIVITY_SCORE,TOX21_AR_LUC_MDAKB2_Antagonist_0.5nM_R1881_viability,PubChem activity score associated with the assay result.,Unitless score
+MDAKB2_VIABILITY_AC50,TOX21_AR_LUC_MDAKB2_Antagonist_0.5nM_R1881_viability,Concentration producing 50% of the measured assay response.,µM
+MDAKB2_VIABILITY_HITC,TOX21_AR_LUC_MDAKB2_Antagonist_0.5nM_R1881_viability,Hit-call value associated with the assay activity classification.,Unitless
+MDAKB2_VIABILITY_BMD,TOX21_AR_LUC_MDAKB2_Antagonist_0.5nM_R1881_viability,Benchmark dose or concentration value reported for the assay.,µM
