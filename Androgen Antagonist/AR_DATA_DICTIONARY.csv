@@ -1,0 +1,14 @@
+Variable,Description,Units
+DTXSID,EPA DSSTox Substance Identifier used to match chemicals across assays.,Identifier
+BLA_PRIMARY_PUBCHEM_ACTIVITY_OUTCOME,Activity classification for the AR BLA antagonist primary assay.,Categorical
+BLA_PRIMARY_AC50,Concentration producing 50% of the assay response in the BLA primary assay.,µM
+BLA_PRIMARY_HITC,Hit-call value associated with the BLA primary assay.,Unitless
+BLA_PRIMARY_BMD,Benchmark dose/concentration value reported for the BLA primary assay.,µM
+BLA_VIABILITY_PUBCHEM_ACTIVITY_OUTCOME,Viability activity classification used as a QA check for the BLA assay.,Categorical
+BLA_VIABILITY_AC50,Concentration producing 50% response in the BLA viability assay.,µM
+MDAKB2_PRIMARY_PUBCHEM_ACTIVITY_OUTCOME,Activity classification for the AR MDA-KB2 antagonist primary assay.,Categorical
+MDAKB2_PRIMARY_AC50,Concentration producing 50% of the assay response in the MDA-KB2 primary assay.,µM
+MDAKB2_PRIMARY_HITC,Hit-call value associated with the MDA-KB2 primary assay.,Unitless
+MDAKB2_PRIMARY_BMD,Benchmark dose/concentration value reported for the MDA-KB2 primary assay.,µM
+MDAKB2_VIABILITY_PUBCHEM_ACTIVITY_OUTCOME,Viability activity classification used as a QA check for the MDA-KB2 assay.,Categorical
+MDAKB2_VIABILITY_AC50,Concentration producing 50% response in the MDA-KB2 viability assay.,µM
