@@ -22,3 +22,9 @@ In this chapter, I worked with K-Means clustering and KNN models using chemical 
 
 ##Androgen Antagonist Project
 I worked with Tox21 androgen antagonist data. I used two primary androgen antagonist assays and their matching viability assays. I used Python to match the chemicals by DTXSID, check for any duplicates, and combine everything into one master dataset. I also looked at active and inactive results and missing values. Any missing values were treated as unavailable instead of inactive. I also made a data dictionary to explain the columns in my final dataset.
+
+##Chapter 11
+In this chapter, I used linear regression and gradient descent. I created a noisy data set that would fit the equation y=2x+5. I then created a loss landscape to show the slope and models error as well.
+
+##Chapter 12
+In this chapter, I used evolutionary algorithms to complete the Weasel program. Then I created graphs to show the how the score changed over generations.
