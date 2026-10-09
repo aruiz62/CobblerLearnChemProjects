@@ -27,4 +27,4 @@ I worked with Tox21 androgen antagonist data. I used two primary androgen antago
 In this chapter, I used linear regression and gradient descent. I created a noisy data set that would fit the equation y=2x+5. I then created a loss landscape to show the slope and models error as well.
 
 ##Chapter 12
-In this chapter, I used evolutionary algorithms to complete the Weasel program. Then I created graphs to show the how the score changed over generations.
+In this chapter, I used evolutionary algorithms to complete the Weasel program. Then I created graphs to show the how the score changed over generations. This shows an organisms have the ability to adapt and evolve over generations to increase its fitness score.
