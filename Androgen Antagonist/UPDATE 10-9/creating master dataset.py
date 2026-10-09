@@ -8,8 +8,8 @@ for file in Path(".").glob("*.csv"):
     print(file.name)
 
 # STEP 2: Enter your actual filenames
-antagonist_file = "Assay List TOX21_AR_BLA_Antagonist_ratio-2026-10-09 ALL CHEMICALS.csv"
-viability_file = "Assay List TOX21_AR_BLA_Antagonist_viability-2026-10-09 ALL CHEMICALS.csv"
+antagonist_file = "ASSAYS/Assay List TOX21_AR_BLA_Antagonist_ratio-2026-10-09 ALL CHEMICALS.csv"
+viability_file = "ASSAYS/Assay List TOX21_AR_BLA_Antagonist_viability-2026-10-09 ALL CHEMICALS.csv"
 
 # STEP 3: Load datasets
 ant = pd.read_csv(antagonist_file, dtype=str)
