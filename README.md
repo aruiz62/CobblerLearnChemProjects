@@ -37,3 +37,6 @@ In this project, I used python to code for a network that can predict a molecule
 
 ##Chapter 14
 In chapter 14, I used python to code for an image using an array composed of 1s and 0s. From this array, we applied a filer in order to help us see any corners, end pieces, and intersections. 
+
+##Chapter 15
+In this chapter, we use python and AI to create a model that evolves to navigate through the lake without falling. The model learned through several training cycles. The model was trained through 20,000 training cycles and then was tested over 100 test episodes. I got a 60% success rate, which is below the 70%. This model would need more training to get to the bare minimum. Then I created a graph that displayed the success rate and how more training episodes gave the model better accuracy.
