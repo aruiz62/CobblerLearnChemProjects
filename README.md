@@ -31,3 +31,7 @@ In this chapter, I used evolutionary algorithms to complete the Weasel program. 
 
 ##Update 10-9
 This is the most current work on the Androgen Antagonist assignment. For molecular descriptors, I coded for 8 of them: Molecular weight, LogP, TPSA, H-Bond donors and acceptors, rotatable bonds, ring count, and heavy atom count. Molecular weight and heavy atom count is useful because a chemicals weight can affect how it can fit into a receptors binding area. LogP and TPSA describe the chemicals interaction in water and fatty environments. H bond acceptors and donors describe how well a chemical can form hydrogen bonds which can affect its binding with the androgen receptor. Rotatable bonds and ring count show how flexible or rigid a chemical is, which can affect its shape and its binding.
+
+##Chapter 13
+In this project, I used python to code for a network that can predict a molecules boiling point. From the chemical list made, we created graphs and calculated MSE, MAE, and R2. We then removed butane from the data set to ensure that the model is able to predict accurately.
+
