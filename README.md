@@ -35,3 +35,5 @@ This is the most current work on the Androgen Antagonist assignment. For molecul
 ##Chapter 13
 In this project, I used python to code for a network that can predict a molecules boiling point. From the chemical list made, we created graphs and calculated MSE, MAE, and R2. We then removed butane from the data set to ensure that the model is able to predict accurately.
 
+##Chapter 14
+In chapter 14, I used python to code for an image using an array composed of 1s and 0s. From this array, we applied a filer in order to help us see any corners, end pieces, and intersections. 
