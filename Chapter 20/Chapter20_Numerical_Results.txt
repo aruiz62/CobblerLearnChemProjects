@@ -1,0 +1,7 @@
+Chapter 20 - AlphaFold Comparison
+==============================
+Residues compared: 21
+Average pLDDT: 95.50
+Average residue distance: 0.596 A
+Maximum residue distance: 1.573 A
+pLDDT-distance correlation: -0.1126
