@@ -40,3 +40,22 @@ In chapter 14, I used python to code for an image using an array composed of 1s 
 
 ##Chapter 15
 In this chapter, we use python and AI to create a model that evolves to navigate through the lake without falling. The model learned through several training cycles. The model was trained through 20,000 training cycles and then was tested over 100 test episodes. I got a 60% success rate, which is below the 70%. This model would need more training to get to the bare minimum. Then I created a graph that displayed the success rate and how more training episodes gave the model better accuracy.
+
+##Chapter 16
+
+
+##Chapter 17
+
+
+##Chapter 18
+In this chapter, we coded an environment where a model got rewards for balancing a pole. We used random and rule-based approaches in order for the cart to learn to move to the right or left. Our random approach had a reward average of 25.2 while rule-based approach had a 41.7.
+Based on our findings, we can assume that the rule-based approach performed better 
+
+1.) The CartPole environment is similar to the CobberTitration because they are both models where they learn through rewards. Based on their reward per action, they will make a better choice the next time.
+2.) One similarity between their early training episodes is that each time the program is ran, it does not give the same results. The starting process is completely random, which is why in our lab activities we ran multiple trials.
+3.) The variability in performance relates to the random nature of RL because they both used random actions in the beginning of their data collection for a starting point. From there, the rewards received only push them further into the correct direction.
+
+##Chapter 19
+
+
+##Chapter 20
