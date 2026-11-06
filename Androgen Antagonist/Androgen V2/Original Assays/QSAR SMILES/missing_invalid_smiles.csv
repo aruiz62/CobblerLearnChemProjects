@@ -1,0 +1,712 @@
+INPUT,FOUND_BY,DTXSID,PREFERRED_NAME,QSAR_READY_SMILES,SMILES_Status
+DTXSID1040611,DSSTox_Substance_Id,DTXSID1040611,"3-Oxa-2,4-disilaheptan-1-ol, 2,2,4-trimethyl-4-(trimethylsiloxy)-, monoether with polyethylene glycol",,Missing
+DTXSID6045111,DSSTox_Substance_Id,DTXSID6045111,Adriamycin hydrochloride-DNA complex,,Missing
+DTXSID4020329,DSSTox_Substance_Id,DTXSID4020329,Cimetidine,,Missing
+DTXSID7046966,DSSTox_Substance_Id,DTXSID7046966,Guanethidine sulfate,,Missing
+DTXSID7041126,DSSTox_Substance_Id,DTXSID7041126,Sodium nitroprusside dihydrate,,Missing
+DTXSID7041752,DSSTox_Substance_Id,DTXSID7041752,Cantharidin,,Missing
+DTXSID7023568,DSSTox_Substance_Id,DTXSID7023568,Rolitetracycline,,Missing
+DTXSID9037246,DSSTox_Substance_Id,DTXSID9037246,"Imidodicarbonimidic diamide, N,N-dimethyl-, hydrochloride (1:2)",,Missing
+DTXSID3045352,DSSTox_Substance_Id,DTXSID3045352,Colistin sulfate,,Missing
+DTXSID5040625,DSSTox_Substance_Id,DTXSID5040625,Thiostrepton,,Missing
+DTXSID7045360,DSSTox_Substance_Id,DTXSID7045360,"Piperazine, 1-[(4-chlorophenyl)phenylmethyl]-4-methyl-, hydrochloride (1:?)",,Missing
+DTXSID7022839,DSSTox_Substance_Id,DTXSID7022839,Clofazimine,,Missing
+DTXSID6045402,DSSTox_Substance_Id,DTXSID6045402,Spiramycin,,Missing
+DTXSID6045406,DSSTox_Substance_Id,DTXSID6045406,Vitamin K2,,Missing
+DTXSID0045414,DSSTox_Substance_Id,DTXSID0045414,Alcuronium chloride,OCC=C1C[NH]2(CC=C)CCC34C2CC1C1=CN2C5C(=CN(C31)C1=C4C=CC=C1)C1CC3C5(CC[NH]3(CC=C)CC1=CCO)C1=C2C=CC=C1,Invalid
+DTXSID8045438,DSSTox_Substance_Id,DTXSID8045438,Ritodrine hydrochloride,,Missing
+DTXSID5023033,DSSTox_Substance_Id,DTXSID5023033,Etomidate,,Missing
+DTXSID0022640,DSSTox_Substance_Id,DTXSID0022640,Aztreonam,,Missing
+DTXSID7022754,DSSTox_Substance_Id,DTXSID7022754,Cefixime,,Missing
+DTXSID3022825,DSSTox_Substance_Id,DTXSID3022825,Cisapride,,Missing
+DTXSID5040675,DSSTox_Substance_Id,DTXSID5040675,Glimepiride,,Missing
+DTXSID7022629,DSSTox_Substance_Id,DTXSID7022629,Atovaquone,,Missing
+DTXSID2023721,DSSTox_Substance_Id,DTXSID2023721,Troleandomycin,,Missing
+DTXSID6045537,DSSTox_Substance_Id,DTXSID6045537,Ajmaline,,Missing
+DTXSID1045538,DSSTox_Substance_Id,DTXSID1045538,Cefotiam dihydrochloride,,Missing
+DTXSID0045545,DSSTox_Substance_Id,DTXSID0045545,Mercurochrome,,Missing
+DTXSID0037235,DSSTox_Substance_Id,DTXSID0037235,Gentamicin sulfate,,Missing
+DTXSID4023545,DSSTox_Substance_Id,DTXSID4023545,Pyrvinium pamoate,,Missing
+DTXSID5045596,DSSTox_Substance_Id,DTXSID5045596,Meclocycline sulfosalicylate,,Missing
+DTXSID2045604,DSSTox_Substance_Id,DTXSID2045604,Verteporfin,,Missing
+DTXSID4022816,DSSTox_Substance_Id,DTXSID4022816,C.I. Direct Red 28,,Missing
+DTXSID7045605,DSSTox_Substance_Id,DTXSID7045605,Picrotoxin,,Missing
+DTXSID2045606,DSSTox_Substance_Id,DTXSID2045606,Galanthamine,,Missing
+DTXSID0042618,DSSTox_Substance_Id,DTXSID0042618,"Tropanyl 3,5-dimethylbenzoate",,Missing
+DTXSID0045670,DSSTox_Substance_Id,DTXSID0045670,SCH 50911,,Missing
+DTXSID5045673,DSSTox_Substance_Id,DTXSID5045673,Procaterol,,Missing
+DTXSID2048161,DSSTox_Substance_Id,DTXSID2048161,Rimcazole dihydrochloride,,Missing
+DTXSID5029055,DSSTox_Substance_Id,DTXSID5029055,"4-Nonylphenol, branched",,Missing
+DTXSID7037684,DSSTox_Substance_Id,DTXSID7037684,Polybrene,,Missing
+DTXSID8021276,DSSTox_Substance_Id,DTXSID8021276,Sodium hypochlorite,,Missing
+DTXSID0024715,DSSTox_Substance_Id,DTXSID0024715,Cadmium oxide,,Missing
+DTXSID2045735,DSSTox_Substance_Id,DTXSID2045735,Cochineal,,Missing
+DTXSID2029668,DSSTox_Substance_Id,DTXSID2029668,Ammonium nitrate,,Missing
+DTXSID7020340,DSSTox_Substance_Id,DTXSID7020340,Cobalt sulfate heptahydrate,,Missing
+DTXSID3033983,DSSTox_Substance_Id,DTXSID3033983,Sodium hydrogen sulfate,,Missing
+DTXSID8035138,DSSTox_Substance_Id,DTXSID8035138,(4-Aminophenyl)arsonic acid,,Missing
+DTXSID5045750,DSSTox_Substance_Id,DTXSID5045750,Amperozide hydrochloride,,Missing
+DTXSID0045751,DSSTox_Substance_Id,DTXSID0045751,3-Aminopropionitrile fumarate,,Missing
+DTXSID8021278,DSSTox_Substance_Id,DTXSID8021278,"Methanesulfonamide, N-[4-[1-hydroxy-2-[(1-methylethyl)amino]ethyl]phenyl]-, hydrochloride (1:2)",,Missing
+DTXSID6045822,DSSTox_Substance_Id,DTXSID6045822,Colistimethate sodium,,Missing
+DTXSID5045839,DSSTox_Substance_Id,DTXSID5045839,Polymixin B sulfate,,Missing
+DTXSID4045846,DSSTox_Substance_Id,DTXSID4045846,Tyrothricin,,Missing
+DTXSID9045847,DSSTox_Substance_Id,DTXSID9045847,Acetarsol,,Missing
+DTXSID4045848,DSSTox_Substance_Id,DTXSID4045848,Acriflavine hydrochloride,,Missing
+DTXSID1045900,DSSTox_Substance_Id,DTXSID1045900,Mepartricin,,Missing
+DTXSID8023638,DSSTox_Substance_Id,DTXSID8023638,Teniposide,,Missing
+DTXSID6023735,DSSTox_Substance_Id,DTXSID6023735,Valsartan,,Missing
+DTXSID9045928,DSSTox_Substance_Id,DTXSID9045928,Rosuvastatin calcium,,Missing
+DTXSID6045951,DSSTox_Substance_Id,DTXSID6045951,Ramelteon,,Missing
+DTXSID5045962,DSSTox_Substance_Id,DTXSID5045962,alpha-Dihydroartemisinin,,Missing
+DTXSID0045969,DSSTox_Substance_Id,DTXSID0045969,Enoxaparin sodium,,Missing
+DTXSID3045984,DSSTox_Substance_Id,DTXSID3045984,Cellobiose,,Missing
+DTXSID1046009,DSSTox_Substance_Id,DTXSID1046009,Coenzyme B12,,Missing
+DTXSID5046013,DSSTox_Substance_Id,DTXSID5046013,Aurothioglucose,,Missing
+DTXSID4020113,DSSTox_Substance_Id,DTXSID4020113,(+/-)-Atropine,,Missing
+DTXSID8046034,DSSTox_Substance_Id,DTXSID8046034,Acarbose,,Missing
+DTXSID2046042,DSSTox_Substance_Id,DTXSID2046042,Polyethylene glycol mono(dodecylthio) ether,,Missing
+DTXSID1046051,DSSTox_Substance_Id,DTXSID1046051,Galactitol,,Missing
+DTXSID8023472,DSSTox_Substance_Id,DTXSID8023472,"rel-2-Methyl-3-[(2E,7R,11R)-3,7,11,15-tetramethyl-2-hexadecen-1-yl]-1,4-naphthalenedione",,Missing
+DTXSID5046061,DSSTox_Substance_Id,DTXSID5046061,Amprenavir,,Missing
+DTXSID2027381,DSSTox_Substance_Id,DTXSID2027381,"1,2-Propylene glycol monostearate",,Missing
+DTXSID4022814,DSSTox_Substance_Id,DTXSID4022814,Acid Red 94 disodium salt,,Missing
+DTXSID6027395,DSSTox_Substance_Id,DTXSID6027395,Sorbitan monododecanoate,,Missing
+DTXSID4020115,DSSTox_Substance_Id,DTXSID4020115,Auranofin,,Missing
+DTXSID7046128,DSSTox_Substance_Id,DTXSID7046128,Nafamostat mesylate,,Missing
+DTXSID6046133,DSSTox_Substance_Id,DTXSID6046133,Lornoxicam,,Missing
+DTXSID0042614,DSSTox_Substance_Id,DTXSID0042614,Tetrabenazine,,Missing
+DTXSID8046290,DSSTox_Substance_Id,DTXSID8046290,Viomycin sulfate (1:x),,Missing
+DTXSID3022742,DSSTox_Substance_Id,DTXSID3022742,Carubicin,,Missing
+DTXSID0049072,DSSTox_Substance_Id,DTXSID0049072,Varenicline tartrate,,Missing
+DTXSID5046308,DSSTox_Substance_Id,DTXSID5046308,Phenylmercury borate,,Missing
+DTXSID9046318,DSSTox_Substance_Id,DTXSID9046318,(+/-) -Niguldipine hydrochloride (1:x),,Missing
+DTXSID4046319,DSSTox_Substance_Id,DTXSID4046319,Aconitine,,Missing
+DTXSID9023415,DSSTox_Substance_Id,DTXSID9023415,Pancuronium bromide,,Missing
+DTXSID1032278,DSSTox_Substance_Id,DTXSID1032278,(+)-Vincristine,,Missing
+DTXSID1027396,DSSTox_Substance_Id,DTXSID1027396,Anhydrosorbitol stearate,,Missing
+DTXSID7025219,DSSTox_Substance_Id,DTXSID7025219,Sodium dodecylbenzenesulfonate,,Missing
+DTXSID2046414,DSSTox_Substance_Id,DTXSID2046414,Muromonab-CD3,,Missing
+DTXSID0046432,DSSTox_Substance_Id,DTXSID0046432,Danofloxacin,,Missing
+DTXSID3022584,DSSTox_Substance_Id,DTXSID3022584,Amdinocillin,,Missing
+DTXSID7046467,DSSTox_Substance_Id,DTXSID7046467,Argatroban,,Missing
+DTXSID3042681,DSSTox_Substance_Id,DTXSID3042681,Artesunate,,Missing
+DTXSID1046479,DSSTox_Substance_Id,DTXSID1046479,Epalrestat,,Missing
+DTXSID0020103,DSSTox_Substance_Id,DTXSID0020103,Arsenic oxide (As2O3),,Missing
+DTXSID5047825,DSSTox_Substance_Id,DTXSID5047825,Vinorelbine tartrate,,Missing
+DTXSID5046518,DSSTox_Substance_Id,DTXSID5046518,Bismuth(III) carbonate,,Missing
+DTXSID6047076,DSSTox_Substance_Id,DTXSID6047076,Ammonium hexafluorosilicate,,Missing
+DTXSID8046537,DSSTox_Substance_Id,DTXSID8046537,Bismuth oxide (Bi2O3),,Missing
+DTXSID6024961,DSSTox_Substance_Id,DTXSID6024961,Dibutyltin dilaurate,,Missing
+DTXSID4048931,DSSTox_Substance_Id,DTXSID4048931,trans-3-Methylfentanyl hydrochloride,,Missing
+DTXSID5047829,DSSTox_Substance_Id,DTXSID5047829,Paromomycin sulfate,,Missing
+DTXSID8046583,DSSTox_Substance_Id,DTXSID8046583,Antimony(V) sulfide,,Missing
+DTXSID9047831,DSSTox_Substance_Id,DTXSID9047831,Levamisole resinate,,Missing
+DTXSID3046588,DSSTox_Substance_Id,DTXSID3046588,Bismuth subgallate,,Missing
+DTXSID9044247,DSSTox_Substance_Id,DTXSID9044247,Lactitol,,Missing
+DTXSID6024622,DSSTox_Substance_Id,DTXSID6024622,Bismuth subsalicylate,,Missing
+DTXSID9046603,DSSTox_Substance_Id,DTXSID9046603,sn-Glycerol 3-phosphate bis(cyclohexylammonium),,Missing
+DTXSID9046605,DSSTox_Substance_Id,DTXSID9046605,Sodium triphosphate hydrate (5:1:6),,Missing
+DTXSID6023313,DSSTox_Substance_Id,DTXSID6023313,Methyclothiazide,,Missing
+DTXSID6021084,DSSTox_Substance_Id,DTXSID6021084,Gamma-Oryzanol,,Missing
+DTXSID8046666,DSSTox_Substance_Id,DTXSID8046666,C.I. Basic Violet 1,,Missing
+DTXSID6046686,DSSTox_Substance_Id,DTXSID6046686,Cilomilast,,Missing
+DTXSID6046688,DSSTox_Substance_Id,DTXSID6046688,"1,2-Benzenediol, 4,4′-[1,6-hexanediylbis[imino(1-hydroxy-2,1-ethanediyl)]]bis-, sulfate (salt)",,Missing
+DTXSID7046708,DSSTox_Substance_Id,DTXSID7046708,Polyethylene glycol polymer with hexadecyl ether,,Missing
+DTXSID4046735,DSSTox_Substance_Id,DTXSID4046735,Piroctone olamine,,Missing
+DTXSID9046736,DSSTox_Substance_Id,DTXSID9046736,"1-9-Luteinizing hormone-releasing factor (swine), 6-[O-(1,1-dimethylethyl)-D-serine]-, 2-(aminocarbonyl)hydrazide, acetate (1:x)",,Missing
+DTXSID0036760,DSSTox_Substance_Id,DTXSID0036760,Oxaliplatin,,Missing
+DTXSID3046742,DSSTox_Substance_Id,DTXSID3046742,Carboplatin,,Missing
+DTXSID7046750,DSSTox_Substance_Id,DTXSID7046750,Hyaluronic acid,,Missing
+DTXSID8046793,DSSTox_Substance_Id,DTXSID8046793,Somatostatin (sheep),,Missing
+DTXSID9046819,DSSTox_Substance_Id,DTXSID9046819,Diethylaminoethyl-sephacel,,Missing
+DTXSID8046826,DSSTox_Substance_Id,DTXSID8046826,Uricase from Bacillus fastidiosus,,Missing
+DTXSID3046827,DSSTox_Substance_Id,DTXSID3046827,Dolasetron mesylate,,Missing
+DTXSID3046829,DSSTox_Substance_Id,DTXSID3046829,Hydroxyethyl starch,,Missing
+DTXSID2046830,DSSTox_Substance_Id,DTXSID2046830,Strychnine benzyl chloride,,Missing
+DTXSID7047853,DSSTox_Substance_Id,DTXSID7047853,Vinrosidine sulfate (1:x),,Missing
+DTXSID4046864,DSSTox_Substance_Id,DTXSID4046864,Desmopressin acetate,,Missing
+DTXSID8046872,DSSTox_Substance_Id,DTXSID8046872,4-Chloromercuriphenol,,Missing
+DTXSID8046878,DSSTox_Substance_Id,DTXSID8046878,Nedaplatin,,Missing
+DTXSID0026173,DSSTox_Substance_Id,DTXSID0026173,Treosulfan,,Missing
+DTXSID2042224,DSSTox_Substance_Id,DTXSID2042224,o-(Chloromercuri)phenol,,Missing
+DTXSID6046894,DSSTox_Substance_Id,DTXSID6046894,Cytochrome C,,Missing
+DTXSID6029335,DSSTox_Substance_Id,DTXSID6029335,Sorbitan monohexadecanoate,,Missing
+DTXSID8046901,DSSTox_Substance_Id,DTXSID8046901,Hydroxocobalamin acetate,,Missing
+DTXSID4048642,DSSTox_Substance_Id,DTXSID4048642,Teicoplanin,,Missing
+DTXSID9048930,DSSTox_Substance_Id,DTXSID9048930,(±)-cis-3-Methyl fentanyl hydrochloride,,Missing
+DTXSID9048936,DSSTox_Substance_Id,DTXSID9048936,(±)-cis-3-Methyl thiofentanyl hydrochloride,,Missing
+DTXSID5048897,DSSTox_Substance_Id,DTXSID5048897,"N,N-Dipropyltryptamine hydrochloride (1:x)",,Missing
+DTXSID7048877,DSSTox_Substance_Id,DTXSID7048877,Ibogaine hydrochloride (1:x),,Missing
+DTXSID7048584,DSSTox_Substance_Id,DTXSID7048584,Aviptadil,,Missing
+DTXSID8048604,DSSTox_Substance_Id,DTXSID8048604,Leucomycin tartrate,,Missing
+DTXSID8048608,DSSTox_Substance_Id,DTXSID8048608,Lysozyme hydrochloride,,Missing
+DTXSID7048615,DSSTox_Substance_Id,DTXSID7048615,Polaprezinc,,Missing
+DTXSID8034873,DSSTox_Substance_Id,DTXSID8034873,Pyrethrins,,Missing
+DTXSID1048623,DSSTox_Substance_Id,DTXSID1048623,Tocophersolan,,Missing
+DTXSID0048630,DSSTox_Substance_Id,DTXSID0048630,Sevelamer hydrochloride,,Missing
+DTXSID5048631,DSSTox_Substance_Id,DTXSID5048631,Mecobalamin,,Missing
+DTXSID5048639,DSSTox_Substance_Id,DTXSID5048639,"(11alpha)-16,16-Difluoro-11-hydroxy-9,15-dioxoprostan-1-oic acid",,Missing
+DTXSID7048665,DSSTox_Substance_Id,DTXSID7048665,Aclatonium napadisilate,,Missing
+DTXSID7041045,DSSTox_Substance_Id,DTXSID7041045,Hygromycin B,,Missing
+DTXSID0048682,DSSTox_Substance_Id,DTXSID0048682,Octreotide,,Missing
+DTXSID5048683,DSSTox_Substance_Id,DTXSID5048683,"Eprinomectin (B1a, B1b mixture)",,Missing
+DTXSID9048697,DSSTox_Substance_Id,DTXSID9048697,Aluminum monostearate,,Missing
+DTXSID1048702,DSSTox_Substance_Id,DTXSID1048702,Diisopropylaminomethyl-polystyrene,,Missing
+DTXSID8045355,DSSTox_Substance_Id,DTXSID8045355,Bacitracin,,Missing
+DTXSID3048738,DSSTox_Substance_Id,DTXSID3048738,"1,1'-Tetramethylenediguanidine sulfate",,Missing
+DTXSID1048754,DSSTox_Substance_Id,DTXSID1048754,Amoebicon,,Missing
+DTXSID6048755,DSSTox_Substance_Id,DTXSID6048755,Aloin,,Missing
+DTXSID0048767,DSSTox_Substance_Id,DTXSID0048767,Phentoloxamine PAS,,Missing
+DTXSID9022815,DSSTox_Substance_Id,DTXSID9022815,C.I. Direct Blue 53,,Missing
+DTXSID3024364,DSSTox_Substance_Id,DTXSID3024364,Cresol,,Missing
+DTXSID4048773,DSSTox_Substance_Id,DTXSID4048773,Tesaglitazar,,Missing
+DTXSID9048776,DSSTox_Substance_Id,DTXSID9048776,Zanapezil fumarate (1:x),,Missing
+DTXSID9048807,DSSTox_Substance_Id,DTXSID9048807,Alilusem,,Missing
+DTXSID5048845,DSSTox_Substance_Id,DTXSID5048845,Flomoxef,,Missing
+DTXSID5048847,DSSTox_Substance_Id,DTXSID5048847,Sitafloxacin,,Missing
+DTXSID4048856,DSSTox_Substance_Id,DTXSID4048856,Lanperisone hydrochloride,,Missing
+DTXSID4048858,DSSTox_Substance_Id,DTXSID4048858,Pyrantel tartrate,,Missing
+DTXSID5031428,DSSTox_Substance_Id,DTXSID5031428,Dihydroergotoxine mesylate,,Missing
+DTXSID8048862,DSSTox_Substance_Id,DTXSID8048862,Isometheptene mucate,,Missing
+DTXSID3048948,DSSTox_Substance_Id,DTXSID3048948,MK 2206 dihydrochloride,,Missing
+DTXSID5022774,DSSTox_Substance_Id,DTXSID5022774,Cefuroxime,,Missing
+DTXSID1048259,DSSTox_Substance_Id,DTXSID1048259,Desmopressin,,Missing
+DTXSID7048954,DSSTox_Substance_Id,DTXSID7048954,Gonadorelin hydrochloride,,Missing
+DTXSID3045354,DSSTox_Substance_Id,DTXSID3045354,Vancomycin hydrochloride,,Missing
+DTXSID5037577,DSSTox_Substance_Id,DTXSID5037577,Moxidectin,,Missing
+DTXSID6048965,DSSTox_Substance_Id,DTXSID6048965,Piperacillin sodium,,Missing
+DTXSID1048966,DSSTox_Substance_Id,DTXSID1048966,Sucrose octasulfate-aluminum complex,,Missing
+DTXSID4046361,DSSTox_Substance_Id,DTXSID4046361,Rosaramicin,,Missing
+DTXSID9048986,DSSTox_Substance_Id,DTXSID9048986,Sodium aurothiomalate hydrate,,Missing
+DTXSID9048988,DSSTox_Substance_Id,DTXSID9048988,Dichloro(ethylenediamine)platinum(II),,Missing
+DTXSID4024983,DSSTox_Substance_Id,DTXSID4024983,Cisplatin,,Missing
+DTXSID4035708,DSSTox_Substance_Id,DTXSID4035708,Methylbenzethonium chloride,,Missing
+DTXSID4040688,DSSTox_Substance_Id,DTXSID4040688,Nystatin,,Missing
+DTXSID0049020,DSSTox_Substance_Id,DTXSID0049020,Poly-L-ornithine hydrochloride,,Missing
+DTXSID5049023,DSSTox_Substance_Id,DTXSID5049023,Potassium antimony(III) tartrate hydrate,,Missing
+DTXSID2047800,DSSTox_Substance_Id,DTXSID2047800,Bleomycin sulfate,,Missing
+DTXSID4041074,DSSTox_Substance_Id,DTXSID4041074,Neomycin sulfate,,Missing
+DTXSID1049069,DSSTox_Substance_Id,DTXSID1049069,Sodium sucrose octasulfate,,Missing
+DTXSID5050426,DSSTox_Substance_Id,DTXSID5050426,Tenofovir disoproxil fumarate,,Missing
+DTXSID9020875,DSSTox_Substance_Id,DTXSID9020875,Methylhydrazine sulfate,,Missing
+DTXSID8027955,DSSTox_Substance_Id,DTXSID8027955,Isooctyl acrylate,,Missing
+DTXSID9029300,DSSTox_Substance_Id,DTXSID9029300,Polysorbate 60,,Missing
+DTXSID4022810,DSSTox_Substance_Id,DTXSID4022810,Chlorprothixene,,Missing
+DTXSID9042465,DSSTox_Substance_Id,DTXSID9042465,Tetrasodium pyrophosphate,,Missing
+DTXSID7045108,DSSTox_Substance_Id,DTXSID7045108,"1-(3-Carboxyphenyl)-2,5-dimethyl-1H-pyrrole-3-carboxylic acid, strychnidin-10-one (1:1)",,Missing
+DTXSID1027714,DSSTox_Substance_Id,DTXSID1027714,9-Octadecen-1-ol-ethylene oxide copolymer,,Missing
+DTXSID0024341,DSSTox_Substance_Id,DTXSID0024341,Toluene diisocyanate,,Missing
+DTXSID5027857,DSSTox_Substance_Id,DTXSID5027857,Texanol,,Missing
+DTXSID3027950,DSSTox_Substance_Id,DTXSID3027950,Trimethylolpropane ethoxylate triacrylate,,Missing
+DTXSID9030707,DSSTox_Substance_Id,DTXSID9030707,alpha-Solanine,,Missing
+DTXSID3020419,DSSTox_Substance_Id,DTXSID3020419,Dibutyltin diacetate,,Missing
+DTXSID4029062,DSSTox_Substance_Id,DTXSID4029062,Dipropyleneglycol methyl ether acetate,,Missing
+DTXSID1027716,DSSTox_Substance_Id,DTXSID1027716,Polyoxyethylene dioleate,,Missing
+DTXSID0020789,DSSTox_Substance_Id,DTXSID0020789,Magnesium chloride hexahydrate,,Missing
+DTXSID1024334,DSSTox_Substance_Id,DTXSID1024334,Thallium nitrate,,Missing
+DTXSID0029474,DSSTox_Substance_Id,DTXSID0029474,"Oxirane, 2-[(C8-10-alkyloxy)methyl] derivatives",,Missing
+DTXSID1029679,DSSTox_Substance_Id,DTXSID1029679,Tetrachlorostannane,,Missing
+DTXSID0020101,DSSTox_Substance_Id,DTXSID0020101,Aroclor 1260,,Missing
+DTXSID6026292,DSSTox_Substance_Id,DTXSID6026292,Vinyltoluene,,Missing
+DTXSID4029806,DSSTox_Substance_Id,DTXSID4029806,"Benzenesulfonic acid, C10-14-alkyl derivs., sodium salts",,Missing
+DTXSID9029695,DSSTox_Substance_Id,DTXSID9029695,Ferrous chloride,,Missing
+DTXSID5022306,DSSTox_Substance_Id,DTXSID5022306,Demeton,,Missing
+DTXSID5024269,DSSTox_Substance_Id,DTXSID5024269,Potassium silver cyanide,,Missing
+DTXSID5023954,DSSTox_Substance_Id,DTXSID5023954,Technical chlordane,,Missing
+DTXSID2021446,DSSTox_Substance_Id,DTXSID2021446,Xylenes,,Missing
+DTXSID8024236,DSSTox_Substance_Id,DTXSID8024236,Octabromodiphenyl ether,,Missing
+DTXSID9025087,DSSTox_Substance_Id,DTXSID9025087,Dimenhydrinate,,Missing
+DTXSID9024300,DSSTox_Substance_Id,DTXSID9024300,Selenious acid,,Missing
+DTXSID8025466,DSSTox_Substance_Id,DTXSID8025466,Isodecyl methacrylate,,Missing
+DTXSID6029707,DSSTox_Substance_Id,DTXSID6029707,Sulfuryl chloride,,Missing
+DTXSID3029815,DSSTox_Substance_Id,DTXSID3029815,"Tridecylamine, branched and linear",,Missing
+DTXSID0027933,DSSTox_Substance_Id,DTXSID0027933,Diisooctyl phthalate,,Missing
+DTXSID2029662,DSSTox_Substance_Id,DTXSID2029662,Dichloro(dioctyl)stannane,,Missing
+DTXSID5029683,DSSTox_Substance_Id,DTXSID5029683,Sulfuric acid,,Missing
+DTXSID2020131,DSSTox_Substance_Id,DTXSID2020131,Barium chloride dihydrate,,Missing
+DTXSID1024831,DSSTox_Substance_Id,DTXSID1024831,Chromium (III) picolinate,,Missing
+DTXSID0047903,DSSTox_Substance_Id,DTXSID0047903,Dimethylammonium nitrate,,Missing
+DTXSID0047905,DSSTox_Substance_Id,DTXSID0047905,Tributylmethylammonium bis(trifluoromethylsulfonyl)imide,,Missing
+DTXSID9047910,DSSTox_Substance_Id,DTXSID9047910,1-Butyl-3-methylimidazolium dicyanamide,,Missing
+DTXSID4047913,DSSTox_Substance_Id,DTXSID4047913,1-Decyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,Missing
+DTXSID3047920,DSSTox_Substance_Id,DTXSID3047920,Butyltrimethylammonium bis(trifluoromethylsulfonyl)imide,,Missing
+DTXSID7047930,DSSTox_Substance_Id,DTXSID7047930,"1-Butyl-2,3-dimethylimidazolium bis(trifluoromethylsulfonyl)imide",,Missing
+DTXSID2047939,DSSTox_Substance_Id,DTXSID2047939,1-Butyl-1-methylpyrrolidinium dicyanamide,,Missing
+DTXSID5026124,DSSTox_Substance_Id,DTXSID5026124,"N,N,N',N'-Tetramethyl-p-phenylenediamine",,Missing
+DTXSID1047940,DSSTox_Substance_Id,DTXSID1047940,1-Ethyl-1-methylpyrrolidinium bis(trifluoromethylsulfonyl)imide,,Missing
+DTXSID1047942,DSSTox_Substance_Id,DTXSID1047942,1-Methyl-1-propylpyrrolidinium bis(trifluoromethylsulfonyl)imide,,Missing
+DTXSID7021283,DSSTox_Substance_Id,DTXSID7021283,Strobane,,Missing
+DTXSID4047888,DSSTox_Substance_Id,DTXSID4047888,Triethylsulfonium bis(trifluoromethanesulfonyl)imide,,Missing
+DTXSID6043919,DSSTox_Substance_Id,DTXSID6043919,Erythritol,,Missing
+DTXSID0047901,DSSTox_Substance_Id,DTXSID0047901,Ethylammonium nitrate,,Missing
+DTXSID4047917,DSSTox_Substance_Id,DTXSID4047917,1-Dodecyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,Missing
+DTXSID3047924,DSSTox_Substance_Id,DTXSID3047924,Methylammonium nitrate,,Missing
+DTXSID3047926,DSSTox_Substance_Id,DTXSID3047926,Methyltrioctylammonium bis(trifluoromethylsulfonyl)imide,,Missing
+DTXSID4022521,DSSTox_Substance_Id,DTXSID4022521,Diisononyl phthalate,,Missing
+DTXSID9020326,DSSTox_Substance_Id,DTXSID9020326,Chromic oxide pigment,,Missing
+DTXSID0025494,DSSTox_Substance_Id,DTXSID0025494,Dodecyl glycidyl ether,,Missing
+DTXSID4029690,DSSTox_Substance_Id,DTXSID4029690,Potassium persulfate,,Missing
+DTXSID8028842,DSSTox_Substance_Id,DTXSID8028842,Sodium polyphosphate,,Missing
+DTXSID5029710,DSSTox_Substance_Id,DTXSID5029710,Phosphoric trichloride,,Missing
+DTXSID2031532,DSSTox_Substance_Id,DTXSID2031532,Lime oil,,Missing
+DTXSID9029061,DSSTox_Substance_Id,DTXSID9029061,"Hexanol, acetate, branched and linear",,Missing
+DTXSID6047947,DSSTox_Substance_Id,DTXSID6047947,1-Methyl-3-propylimidazolium bis(trifluoromethylsulfonyl)imide,,Missing
+DTXSID7021368,DSSTox_Substance_Id,DTXSID7021368,Toxaphene,,Missing
+DTXSID0020444,DSSTox_Substance_Id,DTXSID0020444,"2,4-D isooctyl ester",,Missing
+DTXSID7024742,DSSTox_Substance_Id,DTXSID7024742,Castor oil,,Missing
+DTXSID9029017,DSSTox_Substance_Id,DTXSID9029017,"1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich",,Missing
+DTXSID5047954,DSSTox_Substance_Id,DTXSID5047954,Diethylmethylsulfonium bis(trifluoromethylsulfonyl)imide,,Missing
+DTXSID1027394,DSSTox_Substance_Id,DTXSID1027394,Naphthenic acids,,Missing
+DTXSID6031209,DSSTox_Substance_Id,DTXSID6031209,tert-Butyl hydroperoxide (70% Solution in Water),,Missing
+DTXSID0047955,DSSTox_Substance_Id,DTXSID0047955,1-Methyl-3-octylimidazolium bis(trifluoromethylsulfonyl)imide,,Missing
+DTXSID9047964,DSSTox_Substance_Id,DTXSID9047964,1-Ethyl-3-methylimidazlium dicyanamide,,Missing
+DTXSID1021291,DSSTox_Substance_Id,DTXSID1021291,Sodium sulfate anhydrous,,Missing
+DTXSID8021486,DSSTox_Substance_Id,DTXSID8021486,"1,​2,​3-​Benzenetricarboxylic acid, hydrate (1:x)",,Missing
+DTXSID3021988,DSSTox_Substance_Id,DTXSID3021988,"1-Chloro-2-propanol, technical grade (~75% 1-chloro-2-propanol; ~25% 2-chloro-1-propanol)",,Missing
+DTXSID4024858,DSSTox_Substance_Id,DTXSID4024858,"m,p-Cresol mixture",,Missing
+DTXSID9024853,DSSTox_Substance_Id,DTXSID9024853,"Creosote, wood",,Missing
+DTXSID2024246,DSSTox_Substance_Id,DTXSID2024246,Pentabromodiphenyl ether,,Missing
+DTXSID4020246,DSSTox_Substance_Id,DTXSID4020246,Carbarsone,,Missing
+DTXSID4047967,DSSTox_Substance_Id,DTXSID4047967,1-Ethyl-3-methylimidazolium bis(trifluoromethanesulfonyl)imide,,Missing
+DTXSID9047968,DSSTox_Substance_Id,DTXSID9047968,1-Butyl-1-methylpyrrolidinium bis(trifluoromethanesulfonyl)imide,,Missing
+DTXSID9026267,DSSTox_Substance_Id,DTXSID9026267,Trixylyl phosphate,,Missing
+DTXSID3047970,DSSTox_Substance_Id,DTXSID3047970,"1,3-Dimethylimidazolium dimethyl phosphate",,Missing
+DTXSID8027878,DSSTox_Substance_Id,DTXSID8027878,"2-Propenoic acid, monoester with 1,2-propanediol",,Missing
+DTXSID5027936,DSSTox_Substance_Id,DTXSID5027936,"2-Propenoic acid, 2-methyl-, monoester with 1,2-propanediol",,Missing
+DTXSID9029691,DSSTox_Substance_Id,DTXSID9029691,Diammonium peroxydisulfate,,Missing
+DTXSID6027844,DSSTox_Substance_Id,DTXSID6027844,"1,2,3,6-Tetrahydromethyl-3,6-methanophthalic anhydride",,Missing
+DTXSID8027905,DSSTox_Substance_Id,DTXSID8027905,"Dihydro-3-(tetrapropenyl)-2,5-furandione",,Missing
+DTXSID4025082,DSSTox_Substance_Id,DTXSID4025082,Diisodecyl phthalate,,Missing
+DTXSID4029692,DSSTox_Substance_Id,DTXSID4029692,Potassium nitrate,,Missing
+DTXSID3024528,DSSTox_Substance_Id,DTXSID3024528,Anise oil,,Missing
+DTXSID3027403,DSSTox_Substance_Id,DTXSID3027403,Tributyltin chloride,,Missing
+DTXSID4027868,DSSTox_Substance_Id,DTXSID4027868,tert-Nonanethiol,,Missing
+DTXSID7020215,DSSTox_Substance_Id,DTXSID7020215,Butylated hydroxyanisole,,Missing
+DTXSID0026171,DSSTox_Substance_Id,DTXSID0026171,Tolyltriazole,,Missing
+DTXSID4029698,DSSTox_Substance_Id,DTXSID4029698,Sodium persulfate,,Missing
+DTXSID2029329,DSSTox_Substance_Id,DTXSID2029329,Tripropylene glycol monomethyl ether,,Missing
+DTXSID8027870,DSSTox_Substance_Id,DTXSID8027870,"3-(Dodecenyl)dihydro-2,5-furandione",,Missing
+DTXSID7027386,DSSTox_Substance_Id,DTXSID7027386,Isodecyl acrylate,,Missing
+DTXSID7027837,DSSTox_Substance_Id,DTXSID7027837,Tripropylene glycol,,Missing
+DTXSID3027740,DSSTox_Substance_Id,DTXSID3027740,2-Ethylhexyl acid phosphate,,Missing
+DTXSID7026025,DSSTox_Substance_Id,DTXSID7026025,Sodium chlorate,,Missing
+DTXSID3033511,DSSTox_Substance_Id,DTXSID3033511,Fluorosulfonic acid,,Missing
+DTXSID0020941,DSSTox_Substance_Id,DTXSID0020941,Sodium nitrite,,Missing
+DTXSID6020226,DSSTox_Substance_Id,DTXSID6020226,Cadmium chloride,,Missing
+DTXSID9023883,DSSTox_Substance_Id,DTXSID9023883,Aroclor 1016,,Missing
+DTXSID5020811,DSSTox_Substance_Id,DTXSID5020811,Mercuric chloride,,Missing
+DTXSID6027921,DSSTox_Substance_Id,DTXSID6027921,"Dipropylene glycol, dibenzoate",,Missing
+DTXSID1027924,DSSTox_Substance_Id,DTXSID1027924,Diisodecyl hexanedioate,,Missing
+DTXSID5025948,DSSTox_Substance_Id,DTXSID5025948,Potassium dichromate,,Missing
+DTXSID6027925,DSSTox_Substance_Id,DTXSID6027925,"(1,1,3,3-Tetramethylbutyl)phenol",,Missing
+DTXSID8020121,DSSTox_Substance_Id,DTXSID8020121,Sodium azide,,Missing
+DTXSID5025071,DSSTox_Substance_Id,DTXSID5025071,"1,2-Dihydro-2,2,4-trimethylquinoline, polymer",,Missing
+DTXSID9033896,DSSTox_Substance_Id,DTXSID9033896,Phosphorus pentachloride,,Missing
+DTXSID1025934,DSSTox_Substance_Id,DTXSID1025934,Poly(2-hydroxypropyl methacrylate),,Missing
+DTXSID6032061,DSSTox_Substance_Id,DTXSID6032061,Sodium dichromate dihydrate,,Missing
+DTXSID0026040,DSSTox_Substance_Id,DTXSID0026040,C.I. Solvent Black 5,,Missing
+DTXSID4026054,DSSTox_Substance_Id,DTXSID4026054,Styrax balsam,,Missing
+DTXSID7028306,DSSTox_Substance_Id,DTXSID7028306,"Fatty acids, C16-18",,Missing
+DTXSID5027851,DSSTox_Substance_Id,DTXSID5027851,"2,4,4-Trimethylpentene",,Missing
+DTXSID4028460,DSSTox_Substance_Id,DTXSID4028460,Benzyl-C12-18-alkyldimethylammonium chlorides,,Missing
+DTXSID0029688,DSSTox_Substance_Id,DTXSID0029688,Iron(II) sulfate,,Missing
+DTXSID8029739,DSSTox_Substance_Id,DTXSID8029739,Fluoboric acid,,Missing
+DTXSID3039240,DSSTox_Substance_Id,DTXSID3039240,Antimony potassium tartrate trihydrate,,Missing
+DTXSID5020235,DSSTox_Substance_Id,DTXSID5020235,Calcium chloride,,Missing
+DTXSID7020928,DSSTox_Substance_Id,DTXSID7020928,Nickel(II) sulfate hexahydrate,,Missing
+DTXSID6020937,DSSTox_Substance_Id,DTXSID6020937,Sodium nitrate,,Missing
+DTXSID5021174,DSSTox_Substance_Id,DTXSID5021174,Polybrominated biphenyls (PBB),,Missing
+DTXSID4021264,DSSTox_Substance_Id,DTXSID4021264,Selenium dioxide,,Missing
+DTXSID8021351,DSSTox_Substance_Id,DTXSID8021351,Stannous chloride,,Missing
+DTXSID6021408,DSSTox_Substance_Id,DTXSID6021408,Triphenyltin acetate,,Missing
+DTXSID4025581,DSSTox_Substance_Id,DTXSID4025581,(+)-2-Methylbutyl-4-methoxybenzyladine-4'-aminocyannate,,Missing
+DTXSID9026051,DSSTox_Substance_Id,DTXSID9026051,Stoddard solvent,,Missing
+DTXSID6049351,DSSTox_Substance_Id,DTXSID6049351,Trihexyltetradecylphosphonium dicyanamide,,Missing
+DTXSID1049304,DSSTox_Substance_Id,DTXSID1049304,Trihexyltetradecylphosphonium bis(trifluoromethylsulfonyl)imide,,Missing
+DTXSID4049244,DSSTox_Substance_Id,DTXSID4049244,Ethyltributylphosphonium diethylphosphate,,Missing
+DTXSID0049234,DSSTox_Substance_Id,DTXSID0049234,1-Butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,Missing
+DTXSID1049227,DSSTox_Substance_Id,DTXSID1049227,"1,2-Dimethyl-3-propylimidazolium bis(trifluoromethylsulfonyl)imide",,Missing
+DTXSID5049235,DSSTox_Substance_Id,DTXSID5049235,"1-Ethyl-2,3-dimethylimidazolium bis(trifluoromethylsulfonyl)imide",,Missing
+DTXSID9047889,DSSTox_Substance_Id,DTXSID9047889,1-Ethyl-3-methyl-1H-imidazol-3-ium diethyl phosphate,,Missing
+DTXSID6049270,DSSTox_Substance_Id,DTXSID6049270,1-Ethyl-3-methylimidazolium tosylate,,Missing
+DTXSID4049298,DSSTox_Substance_Id,DTXSID4049298,1-Hexadecyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,Missing
+DTXSID4049290,DSSTox_Substance_Id,DTXSID4049290,1-Hexyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide,,Missing
+DTXSID9049297,DSSTox_Substance_Id,DTXSID9049297,1-Methyl-3-tetradecylimidazolium bis(trifluoromethylsulfonyl)imide,,Missing
+DTXSID3049338,DSSTox_Substance_Id,DTXSID3049338,1-Butyl-1-methylpiperidinium bis(trifluoromethylsulfonyl)imide,,Missing
+DTXSID4049329,DSSTox_Substance_Id,DTXSID4049329,1-Methyl-1-propylpiperidinium bis(trifluoromethylsulfonyl)imide,,Missing
+DTXSID8049387,DSSTox_Substance_Id,DTXSID8049387,1-Methyl-1-propylpiperidinium trifluoromethanesulfonate,,Missing
+DTXSID8049206,DSSTox_Substance_Id,DTXSID8049206,1-Ethyl-1-methylpyrrolidinium tetrafluoroborate,,Missing
+DTXSID2049391,DSSTox_Substance_Id,DTXSID2049391,Tributyltetradecylphosphonium dodecylbenzenesulfonate,,Missing
+DTXSID8049200,DSSTox_Substance_Id,DTXSID8049200,Barium nitrate,,Missing
+DTXSID2030857,DSSTox_Substance_Id,DTXSID2030857,Black cohosh,,Missing
+DTXSID2025424,DSSTox_Substance_Id,DTXSID2025424,Hydroxylamine sulfate (2:1),,Missing
+DTXSID0027858,DSSTox_Substance_Id,DTXSID0027858,Diisopropylbenzene,,Missing
+DTXSID2028723,DSSTox_Substance_Id,DTXSID2028723,(C10-C16) Alkylbenzenesulfonic acid,,Missing
+DTXSID9027948,DSSTox_Substance_Id,DTXSID9027948,"Dihydro-3-(octadecenyl)-2,5-furandione",,Missing
+DTXSID4028880,DSSTox_Substance_Id,DTXSID4028880,Triphenyl phosphates isopropylated,,Missing
+DTXSID5029059,DSSTox_Substance_Id,DTXSID5029059,"Perfluoro compounds, C5-18",,Missing
+DTXSID7029299,DSSTox_Substance_Id,DTXSID7029299,Polyoxyethylene monooctadecyl ether,,Missing
+DTXSID6029703,DSSTox_Substance_Id,DTXSID6029703,Ammonium thiosulfate,,Missing
+DTXSID2020181,DSSTox_Substance_Id,DTXSID2020181,Bismuth oxychloride,,Missing
+DTXSID7020899,DSSTox_Substance_Id,DTXSID7020899,Molybdenum trioxide,,Missing
+DTXSID3049201,DSSTox_Substance_Id,DTXSID3049201,Lithium sulfate,,Missing
+DTXSID2049216,DSSTox_Substance_Id,DTXSID2049216,Ammonium tetrachloroplatinate(II),,Missing
+DTXSID6037015,DSSTox_Substance_Id,DTXSID6037015,Potassium tetrafluoroborate,,Missing
+DTXSID7024534,DSSTox_Substance_Id,DTXSID7024534,Annatto,,Missing
+DTXSID2024616,DSSTox_Substance_Id,DTXSID2024616,Vanadocene dichloride,,Missing
+DTXSID9033264,DSSTox_Substance_Id,DTXSID9033264,Boron trifluoride dihydrate,,Missing
+DTXSID7024740,DSSTox_Substance_Id,DTXSID7024740,Casanthrol,,Missing
+DTXSID2024824,DSSTox_Substance_Id,DTXSID2024824,"Chlorinated paraffins (C12, 60% chlorine)",,Missing
+DTXSID6033326,DSSTox_Substance_Id,DTXSID6033326,Chlorowax 500C,,Missing
+DTXSID0024840,DSSTox_Substance_Id,DTXSID0024840,Cobaltocene,,Missing
+DTXSID7024906,DSSTox_Substance_Id,DTXSID7024906,D & C Yellow 11,,Missing
+DTXSID3025203,DSSTox_Substance_Id,DTXSID3025203,C.I. Direct Red 2,,Missing
+DTXSID9025326,DSSTox_Substance_Id,DTXSID9025326,Ferrocene,,Missing
+DTXSID8031366,DSSTox_Substance_Id,DTXSID8031366,Ginkgo biloba extract,,Missing
+DTXSID5020813,DSSTox_Substance_Id,DTXSID5020813,Methylmercuric(II) chloride,,Missing
+DTXSID8025709,DSSTox_Substance_Id,DTXSID8025709,Nickelocene,,Missing
+DTXSID9023837,DSSTox_Substance_Id,DTXSID9023837,Sodium bromate,,Missing
+DTXSID3021354,DSSTox_Substance_Id,DTXSID3021354,Titanocene dichloride,,Missing
+DTXSID8034085,DSSTox_Substance_Id,DTXSID8034085,Triton X 100,,Missing
+DTXSID7040449,DSSTox_Substance_Id,DTXSID7040449,Copper(II) chloride,,Missing
+DTXSID3024603,DSSTox_Substance_Id,DTXSID3024603,Beryllium sulfate tetrahydrate,,Missing
+DTXSID4049408,DSSTox_Substance_Id,DTXSID4049408,Fluorescein 5(6)-isothiocyanate,,Missing
+DTXSID3049382,DSSTox_Substance_Id,DTXSID3049382,Triethylgermanium chloride,,Missing
+DTXSID4049402,DSSTox_Substance_Id,DTXSID4049402,Zirconyl chloride octahydrate,,Missing
+DTXSID7025425,DSSTox_Substance_Id,DTXSID7025425,Hydroxylamine hydrochloride,,Missing
+DTXSID0032077,DSSTox_Substance_Id,DTXSID0032077,Sodium selenite,,Missing
+DTXSID6024701,DSSTox_Substance_Id,DTXSID6024701,tert-Butylphenyl diphenyl phosphate,,Missing
+DTXSID3024861,DSSTox_Substance_Id,DTXSID3024861,Cresyl diphenyl phosphate,,Missing
+DTXSID7024615,DSSTox_Substance_Id,DTXSID7024615,Bis(cyclopentadiene)chromium(II),,Missing
+DTXSID7026318,DSSTox_Substance_Id,DTXSID7026318,Zirconocene dichloride,,Missing
+DTXSID2026022,DSSTox_Substance_Id,DTXSID2026022,Sodium arsanilate,,Missing
+DTXSID3025465,DSSTox_Substance_Id,DTXSID3025465,Isodecyl diphenyl phosphate,,Missing
+DTXSID9020166,DSSTox_Substance_Id,DTXSID9020166,Bis(tributyltin)oxide,,Missing
+DTXSID5049445,DSSTox_Substance_Id,DTXSID5049445,NTP Mix57 CT1 62-EQP,,Missing
+DTXSID0049446,DSSTox_Substance_Id,DTXSID0049446,NTP Mix58 CT1 62-GP,,Missing
+DTXSID5049447,DSSTox_Substance_Id,DTXSID5049447,NTP Mix59 CT1 62-GP,,Missing
+DTXSID0049448,DSSTox_Substance_Id,DTXSID0049448,NTP Mix60 CT1 62-GP,,Missing
+DTXSID5049449,DSSTox_Substance_Id,DTXSID5049449,NTP Mix61 CT1 62-GP,,Missing
+DTXSID4049450,DSSTox_Substance_Id,DTXSID4049450,NTP Mix62 CT1 62-GP,,Missing
+DTXSID9049451,DSSTox_Substance_Id,DTXSID9049451,NTP Mix63 CT1 62-GP,,Missing
+DTXSID4049452,DSSTox_Substance_Id,DTXSID4049452,NTP Mix64 CT1 62-GP,,Missing
+DTXSID9049457,DSSTox_Substance_Id,DTXSID9049457,NTP Mix69 CT1 62-GP,,Missing
+DTXSID4049458,DSSTox_Substance_Id,DTXSID4049458,NTP Mix70 CT1 62-GP,,Missing
+DTXSID9049459,DSSTox_Substance_Id,DTXSID9049459,NTP Mix71 CT1 62-GP,,Missing
+DTXSID8049460,DSSTox_Substance_Id,DTXSID8049460,NTP Mix72 CT1 62-GP,,Missing
+DTXSID3049461,DSSTox_Substance_Id,DTXSID3049461,NTP Mix73 CT1 62-GP,,Missing
+DTXSID8049462,DSSTox_Substance_Id,DTXSID8049462,NTP Mix74 CT1 62-GP,,Missing
+DTXSID0049525,DSSTox_Substance_Id,DTXSID0049525,NTP Mix105 ER1 10-EQP,,Missing
+DTXSID3049463,DSSTox_Substance_Id,DTXSID3049463,NTP Mix75 CT1 62-GP,,Missing
+DTXSID8049464,DSSTox_Substance_Id,DTXSID8049464,NTP Mix76 CT1 62-GP,,Missing
+DTXSID3049469,DSSTox_Substance_Id,DTXSID3049469,NTP Mix81 CT1 62-GP,,Missing
+DTXSID2049470,DSSTox_Substance_Id,DTXSID2049470,NTP Mix52 CT1 3-EQP,,Missing
+DTXSID7049471,DSSTox_Substance_Id,DTXSID7049471,NTP Mix39 CT1 2-EQP,,Missing
+DTXSID2049472,DSSTox_Substance_Id,DTXSID2049472,NTP Mix53 CT1 3-EQP,,Missing
+DTXSID7049473,DSSTox_Substance_Id,DTXSID7049473,NTP Mix54 CT1 3-EQP,,Missing
+DTXSID2049474,DSSTox_Substance_Id,DTXSID2049474,NTP Mix55 CT1 3-EQP,,Missing
+DTXSID7049475,DSSTox_Substance_Id,DTXSID7049475,NTP Mix56 CT1 3-EQP,,Missing
+DTXSID2049476,DSSTox_Substance_Id,DTXSID2049476,NTP Mix40 CT1 3-EQP,,Missing
+DTXSID1049481,DSSTox_Substance_Id,DTXSID1049481,NTP Mix44 CT1 3-EQP,,Missing
+DTXSID6049482,DSSTox_Substance_Id,DTXSID6049482,NTP Mix45 CT1 3-EQP,,Missing
+DTXSID1049483,DSSTox_Substance_Id,DTXSID1049483,NTP Mix36 CT1 2-EQP,,Missing
+DTXSID6049484,DSSTox_Substance_Id,DTXSID6049484,NTP Mix37 CT1 2-EQP,,Missing
+DTXSID1049485,DSSTox_Substance_Id,DTXSID1049485,NTP Mix46 CT1 3-EQP,,Missing
+DTXSID6049486,DSSTox_Substance_Id,DTXSID6049486,NTP Mix34 CT1 1-EQP,,Missing
+DTXSID1049487,DSSTox_Substance_Id,DTXSID1049487,NTP Mix47 CT1 3-EQP,,Missing
+DTXSID6049488,DSSTox_Substance_Id,DTXSID6049488,NTP Mix48 CT1 3-EQP,,Missing
+DTXSID5049493,DSSTox_Substance_Id,DTXSID5049493,NTP Mix51 CT1 3-EQP,,Missing
+DTXSID0049494,DSSTox_Substance_Id,DTXSID0049494,NTP Mix1 AR1 4-EQP,,Missing
+DTXSID5049495,DSSTox_Substance_Id,DTXSID5049495,NTP Mix2 AR1 4-EQP,,Missing
+DTXSID0049496,DSSTox_Substance_Id,DTXSID0049496,NTP Mix3 AR1 8-EQP,,Missing
+DTXSID5049497,DSSTox_Substance_Id,DTXSID5049497,NTP Mix4 AR1 8-EQC,,Missing
+DTXSID7049502,DSSTox_Substance_Id,DTXSID7049502,NTP Mix9 AR1 8-7EQP,,Missing
+DTXSID2049503,DSSTox_Substance_Id,DTXSID2049503,NTP Mix10 AR1 8-7EQP,,Missing
+DTXSID7049504,DSSTox_Substance_Id,DTXSID7049504,NTP Mix11 AR1 8-7EQP,,Missing
+DTXSID2049505,DSSTox_Substance_Id,DTXSID2049505,NTP Mix12 AR1 8-7EQP,,Missing
+DTXSID7049506,DSSTox_Substance_Id,DTXSID7049506,NTP Mix13 AR1 8-GP,,Missing
+DTXSID2049507,DSSTox_Substance_Id,DTXSID2049507,NTP Mix14 AR1 8-GP,,Missing
+DTXSID6049513,DSSTox_Substance_Id,DTXSID6049513,NTP Mix20 AR1 8-GP,,Missing
+DTXSID1049514,DSSTox_Substance_Id,DTXSID1049514,NTP Mix118 ER1 5-EQP,,Missing
+DTXSID6049515,DSSTox_Substance_Id,DTXSID6049515,NTP Mix117 ER1 5-EQP,,Missing
+DTXSID1049516,DSSTox_Substance_Id,DTXSID1049516,NTP Mix96 ER1 10-EQP,,Missing
+DTXSID6049517,DSSTox_Substance_Id,DTXSID6049517,NTP Mix97 ER1 10-EQC,,Missing
+DTXSID1049518,DSSTox_Substance_Id,DTXSID1049518,NTP Mix99 ER1 10-EQP,,Missing
+DTXSID6049519,DSSTox_Substance_Id,DTXSID6049519,NTP Mix98 ER1 10-EQP,,Missing
+DTXSID5049520,DSSTox_Substance_Id,DTXSID5049520,NTP Mix100 ER1 10-EQP,,Missing
+DTXSID0049521,DSSTox_Substance_Id,DTXSID0049521,NTP Mix101 ER1 10-EQP,,Missing
+DTXSID5049526,DSSTox_Substance_Id,DTXSID5049526,NTP Mix106 ER1 10-EQP,,Missing
+DTXSID0049527,DSSTox_Substance_Id,DTXSID0049527,NTP Mix107 ER1 10-EQP,,Missing
+DTXSID5049528,DSSTox_Substance_Id,DTXSID5049528,NTP Mix108 ER1 10-GP,,Missing
+DTXSID2049551,DSSTox_Substance_Id,DTXSID2049551,NTP Mix21 AR2 2-EQP,,Missing
+DTXSID7049552,DSSTox_Substance_Id,DTXSID7049552,NTP Mix22 AR2 2-EQP,,Missing
+DTXSID2049553,DSSTox_Substance_Id,DTXSID2049553,NTP Mix23 AR2 2-EQP,,Missing
+DTXSID7049554,DSSTox_Substance_Id,DTXSID7049554,NTP Mix24 AR2 2-EQP,,Missing
+DTXSID2049555,DSSTox_Substance_Id,DTXSID2049555,NTP Mix25 AR2 2-EQP,,Missing
+DTXSID9049453,DSSTox_Substance_Id,DTXSID9049453,NTP Mix65 CT1 62-GP,,Missing
+DTXSID4049454,DSSTox_Substance_Id,DTXSID4049454,NTP Mix66 CT1 62-GP,,Missing
+DTXSID9049455,DSSTox_Substance_Id,DTXSID9049455,NTP Mix67 CT1 62-GP,,Missing
+DTXSID4049456,DSSTox_Substance_Id,DTXSID4049456,NTP Mix68 CT1 62-GP,,Missing
+DTXSID3049465,DSSTox_Substance_Id,DTXSID3049465,NTP Mix77 CT1 62-GP,,Missing
+DTXSID8049466,DSSTox_Substance_Id,DTXSID8049466,NTP Mix78 CT1 62-GP,,Missing
+DTXSID3049467,DSSTox_Substance_Id,DTXSID3049467,NTP Mix79 CT1 62-GP,,Missing
+DTXSID8049468,DSSTox_Substance_Id,DTXSID8049468,NTP Mix80 CT1 62-GP,,Missing
+DTXSID7049477,DSSTox_Substance_Id,DTXSID7049477,NTP Mix41 CT1 3-EQP,,Missing
+DTXSID2049478,DSSTox_Substance_Id,DTXSID2049478,NTP Mix42 CT1 3-EQP,,Missing
+DTXSID7049479,DSSTox_Substance_Id,DTXSID7049479,NTP Mix33 CT1 1-EQP,,Missing
+DTXSID6049480,DSSTox_Substance_Id,DTXSID6049480,NTP Mix43 CT1 3-EQP,,Missing
+DTXSID1049489,DSSTox_Substance_Id,DTXSID1049489,NTP Mix49 CT1 3-EQP,,Missing
+DTXSID0049490,DSSTox_Substance_Id,DTXSID0049490,NTP Mix38 CT1 2-EQP,,Missing
+DTXSID5049491,DSSTox_Substance_Id,DTXSID5049491,NTP Mix50 CT1 3-EQP,,Missing
+DTXSID0049492,DSSTox_Substance_Id,DTXSID0049492,NTP Mix35 CT1 1-EQP,,Missing
+DTXSID0049498,DSSTox_Substance_Id,DTXSID0049498,NTP Mix5 AR1 8-7EQP,,Missing
+DTXSID5049499,DSSTox_Substance_Id,DTXSID5049499,NTP Mix6 AR1 8-7EQP,,Missing
+DTXSID7049500,DSSTox_Substance_Id,DTXSID7049500,NTP Mix7 AR1 8-7EQP,,Missing
+DTXSID2049501,DSSTox_Substance_Id,DTXSID2049501,NTP Mix8 AR1 8-7EQP,,Missing
+DTXSID7049508,DSSTox_Substance_Id,DTXSID7049508,NTP Mix15 AR1 8-GP,,Missing
+DTXSID2049509,DSSTox_Substance_Id,DTXSID2049509,NTP Mix16 AR1 8-GP,,Missing
+DTXSID1049510,DSSTox_Substance_Id,DTXSID1049510,NTP Mix17 AR1 8-GP,,Missing
+DTXSID6049511,DSSTox_Substance_Id,DTXSID6049511,NTP Mix18 AR1 8-GP,,Missing
+DTXSID1049512,DSSTox_Substance_Id,DTXSID1049512,NTP Mix19 AR1 8-GP,,Missing
+DTXSID0049529,DSSTox_Substance_Id,DTXSID0049529,NTP Mix109 ER1 10-GP,,Missing
+DTXSID9049530,DSSTox_Substance_Id,DTXSID9049530,NTP Mix110 ER1 10-GP,,Missing
+DTXSID4049531,DSSTox_Substance_Id,DTXSID4049531,NTP Mix111 ER1 10-GP,,Missing
+DTXSID9049532,DSSTox_Substance_Id,DTXSID9049532,NTP Mix112 ER1 10-GP,,Missing
+DTXSID3049542,DSSTox_Substance_Id,DTXSID3049542,NTP Mix87 ER AR1 18-EQP,,Missing
+DTXSID8049543,DSSTox_Substance_Id,DTXSID8049543,NTP Mix88 ER AR1 18-GP,,Missing
+DTXSID3049544,DSSTox_Substance_Id,DTXSID3049544,NTP Mix89 ER AR1 18-GP,,Missing
+DTXSID8049545,DSSTox_Substance_Id,DTXSID8049545,NTP Mix90 ER AR1 18-GP,,Missing
+DTXSID3049546,DSSTox_Substance_Id,DTXSID3049546,NTP Mix91 ER AR1 18-GP,,Missing
+DTXSID6049561,DSSTox_Substance_Id,DTXSID6049561,NTP Mix31 AR2 7-EQC,,Missing
+DTXSID1049562,DSSTox_Substance_Id,DTXSID1049562,NTP Mix30 AR2 7-EQP,,Missing
+DTXSID5049522,DSSTox_Substance_Id,DTXSID5049522,NTP Mix102 ER1 10-EQP,,Missing
+DTXSID0049523,DSSTox_Substance_Id,DTXSID0049523,NTP Mix103 ER1 10-EQP,,Missing
+DTXSID5049524,DSSTox_Substance_Id,DTXSID5049524,NTP Mix104 ER1 10-EQP,,Missing
+DTXSID4049533,DSSTox_Substance_Id,DTXSID4049533,NTP Mix113 ER1 10-GP,,Missing
+DTXSID9049534,DSSTox_Substance_Id,DTXSID9049534,NTP Mix114 ER1 10-GP,,Missing
+DTXSID4049535,DSSTox_Substance_Id,DTXSID4049535,NTP Mix115 ER1 10-GP,,Missing
+DTXSID9049536,DSSTox_Substance_Id,DTXSID9049536,NTP Mix116 ER1 10-GP,,Missing
+DTXSID4049537,DSSTox_Substance_Id,DTXSID4049537,NTP Mix82 ER AR1 18-EQP,,Missing
+DTXSID9049538,DSSTox_Substance_Id,DTXSID9049538,NTP Mix83 ER AR1 18-EQC,,Missing
+DTXSID4049539,DSSTox_Substance_Id,DTXSID4049539,NTP Mix84 ER AR1 18-EQP,,Missing
+DTXSID3049540,DSSTox_Substance_Id,DTXSID3049540,NTP Mix85 ER AR1 18-EQP,,Missing
+DTXSID8049541,DSSTox_Substance_Id,DTXSID8049541,NTP Mix86 ER AR1 18-EQP,,Missing
+DTXSID8049547,DSSTox_Substance_Id,DTXSID8049547,NTP Mix92 ER AR1 18-GP,,Missing
+DTXSID3049548,DSSTox_Substance_Id,DTXSID3049548,NTP Mix93 ER AR1 18-GP,,Missing
+DTXSID8049549,DSSTox_Substance_Id,DTXSID8049549,NTP Mix94 ER AR1 18-GP,,Missing
+DTXSID7049550,DSSTox_Substance_Id,DTXSID7049550,NTP Mix95 ER AR1 18-GP,,Missing
+DTXSID7049556,DSSTox_Substance_Id,DTXSID7049556,NTP Mix26 AR2 2-EQP,,Missing
+DTXSID2049557,DSSTox_Substance_Id,DTXSID2049557,NTP Mix27 AR2 2-EQP,,Missing
+DTXSID7049558,DSSTox_Substance_Id,DTXSID7049558,NTP Mix32 AR2 7-EQP,,Missing
+DTXSID2049559,DSSTox_Substance_Id,DTXSID2049559,NTP Mix28 AR2 3-EQP,,Missing
+DTXSID1049560,DSSTox_Substance_Id,DTXSID1049560,NTP Mix29 AR2 5-EQP,,Missing
+DTXSID7026029,DSSTox_Substance_Id,DTXSID7026029,Sodium dehydroacetate,,Missing
+DTXSID2026076,DSSTox_Substance_Id,DTXSID2026076,Tannic acid,,Missing
+DTXSID3026302,DSSTox_Substance_Id,DTXSID3026302,Sodium xylenesulfonate,,Missing
+DTXSID5027982,DSSTox_Substance_Id,DTXSID5027982,Diisononyl adipate,,Missing
+DTXSID0034695,DSSTox_Substance_Id,DTXSID0034695,Mancozeb,,Missing
+DTXSID1047526,DSSTox_Substance_Id,DTXSID1047526,C10-21 alkanesulfonic acids phenyl esters,,Missing
+DTXSID9035204,DSSTox_Substance_Id,DTXSID9035204,Tributyltin methacrylate,,Missing
+DTXSID0021464,DSSTox_Substance_Id,DTXSID0021464,Ziram,,Missing
+DTXSID5023825,DSSTox_Substance_Id,DTXSID5023825,Indium arsenide,,Missing
+DTXSID0028666,DSSTox_Substance_Id,DTXSID0028666,"1,2-Benzenedicarboxylic acid, di-C9-11-branched alkyl esters, C10-rich",,Missing
+DTXSID0027856,DSSTox_Substance_Id,DTXSID0027856,Dipropylene glycol,,Missing
+DTXSID0027983,DSSTox_Substance_Id,DTXSID0027983,Dipropylene glycol monomethyl ether,,Missing
+DTXSID7021150,DSSTox_Substance_Id,DTXSID7021150,Phenylmercuric acetate,,Missing
+DTXSID5027932,DSSTox_Substance_Id,DTXSID5027932,Dodecylbenzene sulfonate triethanolamine(1:1),,Missing
+DTXSID1024126,DSSTox_Substance_Id,DTXSID1024126,Heptachlor epoxide B,,Missing
+DTXSID3047394,DSSTox_Substance_Id,DTXSID3047394,Grinstad Soft-N-Safe,,Missing
+DTXSID8047395,DSSTox_Substance_Id,DTXSID8047395,"Diisononyl cyclohexane-1,2-dicarboxylate",,Missing
+DTXSID5028033,DSSTox_Substance_Id,DTXSID5028033,Triisononyl trimellitate,,Missing
+DTXSID4044161,DSSTox_Substance_Id,DTXSID4044161,Antimony trichloride,,Missing
+DTXSID7044760,DSSTox_Substance_Id,DTXSID7044760,Neodymium(III) chloride,,Missing
+DTXSID5041803,DSSTox_Substance_Id,DTXSID5041803,Copper(I) iodide,,Missing
+DTXSID1021409,DSSTox_Substance_Id,DTXSID1021409,Triphenyltin hydroxide,,Missing
+DTXSID0044317,DSSTox_Substance_Id,DTXSID0044317,8-Hydroxyquinoline-5-sulfonic acid hydrate (1:x),,Missing
+DTXSID7020508,DSSTox_Substance_Id,DTXSID7020508,Dimethylarsinic acid,,Missing
+DTXSID7044504,DSSTox_Substance_Id,DTXSID7044504,Cadmium dinitrate,,Missing
+DTXSID0034566,DSSTox_Substance_Id,DTXSID0034566,Emamectin benzoate,,Missing
+DTXSID1039719,DSSTox_Substance_Id,DTXSID1039719,"Nitric acid, calcium salt (2:1)",,Missing
+DTXSID8041909,DSSTox_Substance_Id,DTXSID8041909,Dysprosium(III) chloride,,Missing
+DTXSID5041302,DSSTox_Substance_Id,DTXSID5041302,(Dicyclopentadienyloxy)ethyl methacrylate,,Missing
+DTXSID8023892,DSSTox_Substance_Id,DTXSID8023892,Abamectin,,Missing
+DTXSID4042129,DSSTox_Substance_Id,DTXSID4042129,Phenylmercuric chloride,,Missing
+DTXSID5044318,DSSTox_Substance_Id,DTXSID5044318,Chloramine T hydrate (1:x),,Missing
+DTXSID0027852,DSSTox_Substance_Id,DTXSID0027852,Chlorotoluene,,Missing
+DTXSID0029848,DSSTox_Substance_Id,DTXSID0029848,"Acetic acid, C8-10-branched alkyl esters, C9-rich",,Missing
+DTXSID8034742,DSSTox_Substance_Id,DTXSID8034742,"Milbemectin (mixture of 70% Milbemycin A4, 30% Milbemycin A3)",,Missing
+DTXSID1040372,DSSTox_Substance_Id,DTXSID1040372,Epoxiconazole,,Missing
+DTXSID9032375,DSSTox_Substance_Id,DTXSID9032375,Diflufenzopyr-sodium,,Missing
+DTXSID1020194,DSSTox_Substance_Id,DTXSID1020194,Boric acid (H3BO3),,Missing
+DTXSID7044508,DSSTox_Substance_Id,DTXSID7044508,Barium chloride,,Missing
+DTXSID4032580,DSSTox_Substance_Id,DTXSID4032580,Trifloxystrobin,,Missing
+DTXSID0047117,DSSTox_Substance_Id,DTXSID0047117,Ytterbium(III) chloride,,Missing
+DTXSID9029304,DSSTox_Substance_Id,DTXSID9029304,Glyceryl stearate,,Missing
+DTXSID0042327,DSSTox_Substance_Id,DTXSID0042327,Dipropylene glycol dimethyl ether,,Missing
+DTXSID0027729,DSSTox_Substance_Id,DTXSID0027729,Isomethyltetrahydrophthalic anhydride,,Missing
+DTXSID0022307,DSSTox_Substance_Id,DTXSID0022307,Chloromethyl styrene,,Missing
+DTXSID9044904,DSSTox_Substance_Id,DTXSID9044904,C.I. Acid Blue 22,,Missing
+DTXSID8044911,DSSTox_Substance_Id,DTXSID8044911,Isooctyl 3-mercaptopropionate,,Missing
+DTXSID4044951,DSSTox_Substance_Id,DTXSID4044951,2-Hydroxyethyl methacrylate phosphate,,Missing
+DTXSID7028015,DSSTox_Substance_Id,DTXSID7028015,Tripropylene glycol diacrylate,,Missing
+DTXSID1029677,DSSTox_Substance_Id,DTXSID1029677,Silica,,Missing
+DTXSID2047721,DSSTox_Substance_Id,DTXSID2047721,Petitgrain oil,,Missing
+DTXSID8047711,DSSTox_Substance_Id,DTXSID8047711,"Oils, bran",,Missing
+DTXSID7034836,DSSTox_Substance_Id,DTXSID7034836,Potassium iodide,,Missing
+DTXSID7034672,DSSTox_Substance_Id,DTXSID7034672,Iodine,,Missing
+DTXSID6029755,DSSTox_Substance_Id,DTXSID6029755,"1,2-Propanediol monobutyl ether",,Missing
+DTXSID5042249,DSSTox_Substance_Id,DTXSID5042249,Phenylarsine oxide,,Missing
+DTXSID5042320,DSSTox_Substance_Id,DTXSID5042320,Potassium nitrite,,Missing
+DTXSID1047364,DSSTox_Substance_Id,DTXSID1047364,SSR 103800,,Missing
+DTXSID6047527,DSSTox_Substance_Id,DTXSID6047527,"Adipic acid, polypropyleneglycol, laurate",,Missing
+DTXSID4025824,DSSTox_Substance_Id,DTXSID4025824,Palladium(II) chloride,,Missing
+DTXSID2041125,DSSTox_Substance_Id,DTXSID2041125,Sodium iodide,,Missing
+DTXSID8029369,DSSTox_Substance_Id,DTXSID8029369,Vinyl neodecanoate,,Missing
+DTXSID6044935,DSSTox_Substance_Id,DTXSID6044935,"Chromium acetate, basic",,Missing
+DTXSID9040712,DSSTox_Substance_Id,DTXSID9040712,Triethyltin bromide,,Missing
+DTXSID3042130,DSSTox_Substance_Id,DTXSID3042130,Diphenylmercury(II),,Missing
+DTXSID3034903,DSSTox_Substance_Id,DTXSID3034903,Sodium bromide,,Missing
+DTXSID9042338,DSSTox_Substance_Id,DTXSID9042338,Di(propylene glycol) tert-butyl ether,,Missing
+DTXSID0029214,DSSTox_Substance_Id,DTXSID0029214,Methylionone,,Missing
+DTXSID8042006,DSSTox_Substance_Id,DTXSID8042006,Glyceryl monooctanoate,,Missing
+DTXSID7041756,DSSTox_Substance_Id,DTXSID7041756,Carbetamide,,Missing
+DTXSID9037539,DSSTox_Substance_Id,DTXSID9037539,Endosulfan I,,Missing
+DTXSID9042124,DSSTox_Substance_Id,DTXSID9042124,Mercuric iodide,,Missing
+DTXSID9044900,DSSTox_Substance_Id,DTXSID9044900,Tricyclodecanedimethanol,,Missing
+DTXSID2044971,DSSTox_Substance_Id,DTXSID2044971,Triphenylolmethane triglycidyl ether,,Missing
+DTXSID2044894,DSSTox_Substance_Id,DTXSID2044894,"Trimethylhexane-1,6-diamine",,Missing
+DTXSID4042096,DSSTox_Substance_Id,DTXSID4042096,L-Glucitol,,Missing
+DTXSID2041703,DSSTox_Substance_Id,DTXSID2041703,Butylnaphthalenesulfonic acid sodium salt,,Missing
+DTXSID6041715,DSSTox_Substance_Id,DTXSID6041715,"C.I. Acid Violet 12, disodium salt",,Missing
+DTXSID4044903,DSSTox_Substance_Id,DTXSID4044903,Titanium(4+) bis[(2E)-4-oxohex-2-en-2-olate] dipropan-2-olate,,Missing
+DTXSID7044978,DSSTox_Substance_Id,DTXSID7044978,"Bis[(2-ethyl-2,5-dimethylhexanoyl)oxy](dimethyl)stannane",,Missing
+DTXSID9044902,DSSTox_Substance_Id,DTXSID9044902,Calcium neodecanoate,,Missing
+DTXSID7044928,DSSTox_Substance_Id,DTXSID7044928,Isopropyl triethanolamine titanate,,Missing
+DTXSID9044796,DSSTox_Substance_Id,DTXSID9044796,(Acryloyloxy)(tributyl)stannane,,Missing
+DTXSID9044958,DSSTox_Substance_Id,DTXSID9044958,Trimethylsilyl silicate,,Missing
+DTXSID5044811,DSSTox_Substance_Id,DTXSID5044811,Chlordimeform hydrochloride,,Missing
+DTXSID7042065,DSSTox_Substance_Id,DTXSID7042065,"rel-(1R,4S,4aS,5R,8S,8aR)-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene",,Missing
+DTXSID1046978,DSSTox_Substance_Id,DTXSID1046978,C12-14-Alkyldimethyl betaines,,Missing
+DTXSID9027863,DSSTox_Substance_Id,DTXSID9027863,Polypropylene glycol,,Missing
+DTXSID9044580,DSSTox_Substance_Id,DTXSID9044580,Pentaerythritol allyl ether,,Missing
+DTXSID2035013,DSSTox_Substance_Id,DTXSID2035013,Zinc chloride,,Missing
+DTXSID0044577,DSSTox_Substance_Id,DTXSID0044577,Calcium bromide,,Missing
+DTXSID0044783,DSSTox_Substance_Id,DTXSID0044783,"2-Silylpropyl-urea, Si-(ethoxy and methoxy) derivs",,Missing
+DTXSID1047104,DSSTox_Substance_Id,DTXSID1047104,"trans,cis-2,6-Nonadienal",,Missing
+DTXSID1047027,DSSTox_Substance_Id,DTXSID1047027,Ditridecyl phthalate (mixture of branched chain isomers),,Missing
+DTXSID1048122,DSSTox_Substance_Id,DTXSID1048122,Benzyl-C8-18-alkyldimethylammonium chlorides,,Missing
+DTXSID8027377,DSSTox_Substance_Id,DTXSID8027377,Dimethylaniline,,Missing
+DTXSID8040725,DSSTox_Substance_Id,DTXSID8040725,4-Chloromercuribenzoic acid,,Missing
+DTXSID7041708,DSSTox_Substance_Id,DTXSID7041708,"C.I. Acid Orange 24, monosodium salt",,Missing
+DTXSID8044541,DSSTox_Substance_Id,DTXSID8044541,Isocyclocitral,,Missing
+DTXSID7044552,DSSTox_Substance_Id,DTXSID7044552,Aluminum hydroxide acetate (1:1:2),,Missing
+DTXSID6044484,DSSTox_Substance_Id,DTXSID6044484,Isononanamine,,Missing
+DTXSID0044525,DSSTox_Substance_Id,DTXSID0044525,Phenylmercuric lactate,,Missing
+DTXSID5046986,DSSTox_Substance_Id,DTXSID5046986,dl-Tartaric acid,,Missing
+DTXSID0023745,DSSTox_Substance_Id,DTXSID0023745,D-Xylose,,Missing
+DTXSID9034317,DSSTox_Substance_Id,DTXSID9034317,Benzalkonium chloride,,Missing
+DTXSID3042007,DSSTox_Substance_Id,DTXSID3042007,Glyceryl monoricinoleate,,Missing
+DTXSID2036588,DSSTox_Substance_Id,DTXSID2036588,"Glycols, polyethylene, mono(p-nonylphenyl) ether",,Missing
+DTXSID7022679,DSSTox_Substance_Id,DTXSID7022679,Biotin,,Missing
+DTXSID0041721,DSSTox_Substance_Id,DTXSID0041721,C.I. Acid Yellow 3 disodium salt,,Missing
+DTXSID4044379,DSSTox_Substance_Id,DTXSID4044379,Gold trichloride,,Missing
+DTXSID3047003,DSSTox_Substance_Id,DTXSID3047003,Potassium perchlorate,,Missing
+DTXSID8044549,DSSTox_Substance_Id,DTXSID8044549,Potassium dicyanoaurate,,Missing
+DTXSID6042498,DSSTox_Substance_Id,DTXSID6042498,Triphenylbismuth,,Missing
+DTXSID1044724,DSSTox_Substance_Id,DTXSID1044724,Aluminum triformate,,Missing
+DTXSID4044537,DSSTox_Substance_Id,DTXSID4044537,Sodium triisopropyl naphthalene sulfonate,,Missing
+DTXSID9045007,DSSTox_Substance_Id,DTXSID9045007,Nitarsone,,Missing
+DTXSID2027963,DSSTox_Substance_Id,DTXSID2027963,Isooctadecanoic acid,,Missing
+DTXSID3031444,DSSTox_Substance_Id,DTXSID3031444,Indium phosphide,,Missing
+DTXSID3047055,DSSTox_Substance_Id,DTXSID3047055,"1-Oxaspiro(4.5)dec-6-ene, 2,6,10,10-tetramethyl-, (2S,5S)-",,Missing
+DTXSID8040775,DSSTox_Substance_Id,DTXSID8040775,Terpineol,,Missing
+DTXSID3047051,DSSTox_Substance_Id,DTXSID3047051,Ocimene-Limonene mixture,,Missing
+DTXSID9036933,DSSTox_Substance_Id,DTXSID9036933,Sodium hexafluorosilicate,,Missing
+DTXSID9047043,DSSTox_Substance_Id,DTXSID9047043,Potassium tetrathionate,,Missing
+DTXSID1042499,DSSTox_Substance_Id,DTXSID1042499,Triphenylbismuthine dichloride,,Missing
+DTXSID2029298,DSSTox_Substance_Id,DTXSID2029298,"alpha-Sulfo-omega-(dodecyloxy)poly(oxy-1,2-ethanediyl) sodium salt",,Missing
+DTXSID1040326,DSSTox_Substance_Id,DTXSID1040326,8-Hydroxyquinoline citrate,,Missing
+DTXSID9047041,DSSTox_Substance_Id,DTXSID9047041,Alloxydim sodium,,Missing
+DTXSID1027891,DSSTox_Substance_Id,DTXSID1027891,Calcium dodecylbenzene sulfonate,,Missing
+DTXSID1027899,DSSTox_Substance_Id,DTXSID1027899,Ammonium xylene sulfonate,,Missing
+DTXSID6041557,DSSTox_Substance_Id,DTXSID6041557,Dihydromyrcenol,,Missing
+DTXSID4047040,DSSTox_Substance_Id,DTXSID4047040,Zinc neodecanoate,,Missing
+DTXSID4029565,DSSTox_Substance_Id,DTXSID4029565,"1,2-Benzenedicarboxylic acid, diundecyl ester, branched and linear",,Missing
+DTXSID7027388,DSSTox_Substance_Id,DTXSID7027388,Diisooctyl adipate,,Missing
+DTXSID3029237,DSSTox_Substance_Id,DTXSID3029237,"Siloxanes and Silicones, di-methyl, hydroxy-terminated, hydrolysis products with silica and 3-(trimethoxysilyl)propyl methacrylate",,Missing
+DTXSID9023833,DSSTox_Substance_Id,DTXSID9023833,Poly[oxy(dimethylsilylene)],,Missing
+DTXSID5047796,DSSTox_Substance_Id,DTXSID5047796,Formalin,,Missing
+DTXSID8047630,DSSTox_Substance_Id,DTXSID8047630,Tetronic 701,,Missing
+DTXSID2047484,DSSTox_Substance_Id,DTXSID2047484,Magnesium dinitrate hexahydrate,,Missing
+DTXSID5047168,DSSTox_Substance_Id,DTXSID5047168,"rel-(2R,4aR,8aR)-Hexahydro-1,1,5,5-tetramethyl-2H-2,4a-methanonaphthalen-8(5H)-one",,Missing
+DTXSID7047140,DSSTox_Substance_Id,DTXSID7047140,Isopropyl citrate (Mixture),,Missing
+DTXSID8047501,DSSTox_Substance_Id,DTXSID8047501,Poly[oxy(methylsilylene)],,Missing
+DTXSID6047498,DSSTox_Substance_Id,DTXSID6047498,Triphenyllead acetate,,Missing
+DTXSID3047427,DSSTox_Substance_Id,DTXSID3047427,"2,4-DB-isooctyl ester",,Missing
+DTXSID4047597,DSSTox_Substance_Id,DTXSID4047597,Poloxalene,,Missing
+DTXSID7047512,DSSTox_Substance_Id,DTXSID7047512,Indium(III) chloride hydrate,,Missing
+DTXSID2047486,DSSTox_Substance_Id,DTXSID2047486,Methoxybenzyl alcohol,,Missing
+DTXSID6047448,DSSTox_Substance_Id,DTXSID6047448,Potassium chlorate,,Missing
+DTXSID5047116,DSSTox_Substance_Id,DTXSID5047116,(-)-Isopulegol,,Missing
+DTXSID9047708,DSSTox_Substance_Id,DTXSID9047708,Igepal CO-890,,Missing
+DTXSID8044175,DSSTox_Substance_Id,DTXSID8044175,Clove leaf oil,,Missing
+DTXSID2047696,DSSTox_Substance_Id,DTXSID2047696,Castor oil polyoxyethylene ether,,Missing
+DTXSID1047657,DSSTox_Substance_Id,DTXSID1047657,"1,3-Nonanediol monoacetate",,Missing
+DTXSID2047197,DSSTox_Substance_Id,DTXSID2047197,"Bicyclo(2.2.1)heptan-2-ol, 1,3,3-trimethyl-, acetate, (1S,2R,4R)-",,Missing
+DTXSID7040316,DSSTox_Substance_Id,DTXSID7040316,Nickel chloride,,Missing
+DTXSID3025540,DSSTox_Substance_Id,DTXSID3025540,Thimerosal,,Missing
+DTXSID3040352,DSSTox_Substance_Id,DTXSID3040352,Dinocap,,Missing
+DTXSID3032412,DSSTox_Substance_Id,DTXSID3032412,Imazamethabenz-methyl,,Missing
+DTXSID3042500,DSSTox_Substance_Id,DTXSID3042500,Triphenyltin fluoride,,Missing
+DTXSID6044723,DSSTox_Substance_Id,DTXSID6044723,Dihydroxy aluminum acetate,,Missing
+DTXSID7027916,DSSTox_Substance_Id,DTXSID7027916,Neodecanoic acid,,Missing
+DTXSID3047473,DSSTox_Substance_Id,DTXSID3047473,Polymethylene polyphenyl polyisocyanate,,Missing
+DTXSID4047707,DSSTox_Substance_Id,DTXSID4047707,(Methylthio)methylpyrazine,,Missing
+DTXSID1047730,DSSTox_Substance_Id,DTXSID1047730,Orange terpenes,,Missing
+DTXSID2047517,DSSTox_Substance_Id,DTXSID2047517,"Hexanedioic acid, di-C7-9-branched and linear alkyl esters",,Missing
+DTXSID9027738,DSSTox_Substance_Id,DTXSID9027738,Methylcyclopentadienylmanganese tricarbonyl,,Missing
+DTXSID3047712,DSSTox_Substance_Id,DTXSID3047712,Cornmint oil,,Missing
+DTXSID0047242,DSSTox_Substance_Id,DTXSID0047242,"2,4-Diaminoanisole sulfate hydrate (1:1:x)",,Missing
+DTXSID4047709,DSSTox_Substance_Id,DTXSID4047709,Cananga oil,,Missing
+DTXSID3047180,DSSTox_Substance_Id,DTXSID3047180,Triisodecyl trimellitate,,Missing
+DTXSID8044177,DSSTox_Substance_Id,DTXSID8044177,Nutmeg oil,,Missing
+DTXSID6021113,DSSTox_Substance_Id,DTXSID6021113,Peppermint oil,,Missing
+DTXSID8044622,DSSTox_Substance_Id,DTXSID8044622,Aluminum butan-2-olate (2Z)-4-ethoxy-4-oxobut-2-en-2-olate (1:2:1),,Missing
+DTXSID7028776,DSSTox_Substance_Id,DTXSID7028776,"Phenol, 4-methyl-, reaction products with dicyclopentadiene and isobutylene",,Missing
+DTXSID8047470,DSSTox_Substance_Id,DTXSID8047470,Methoxybenzyl acetate,,Missing
+DTXSID2025216,DSSTox_Substance_Id,DTXSID2025216,Divinylbenzene,,Missing
+DTXSID8021272,DSSTox_Substance_Id,DTXSID8021272,Sodium chlorite,,Missing
+DTXSID9020956,DSSTox_Substance_Id,DTXSID9020956,4-Hydroxy-3-nitrophenylarsonic acid,,Missing
+DTXSID8020703,DSSTox_Substance_Id,DTXSID8020703,Hydrazine sulfate,,Missing
+DTXSID5023875,DSSTox_Substance_Id,DTXSID5023875,Ammonium sulfamate,,Missing
+DTXSID8027292,DSSTox_Substance_Id,DTXSID8027292,Dibutyltin dichloride,,Missing
+DTXSID5027304,DSSTox_Substance_Id,DTXSID5027304,Dimethyltin dichloride,,Missing
+DTXSID7025130,DSSTox_Substance_Id,DTXSID7025130,Dimethylnaphthalene,,Missing
+DTXSID7023194,DSSTox_Substance_Id,DTXSID7023194,Lamivudine,,Missing
+DTXSID4021391,DSSTox_Substance_Id,DTXSID4021391,Tris(methylphenyl) phosphate,,Missing
+DTXSID4022153,DSSTox_Substance_Id,DTXSID4022153,Tetrabutyltin,,Missing
+DTXSID8020622,DSSTox_Substance_Id,DTXSID8020622,Ferric chloride,,Missing
+DTXSID2021282,DSSTox_Substance_Id,DTXSID2021282,Streptozotocin,,Missing
+DTXSID1027346,DSSTox_Substance_Id,DTXSID1027346,Trichloromethylstannane,,Missing
+DTXSID5027518,DSSTox_Substance_Id,DTXSID5027518,Aluminum n-butoxide,,Missing
+DTXSID5034981,DSSTox_Substance_Id,DTXSID5034981,Tributyltin benzoate,,Missing
+DTXSID1027841,DSSTox_Substance_Id,DTXSID1027841,Isooctyl 2-mercaptoacetate,,Missing
+DTXSID9021477,DSSTox_Substance_Id,DTXSID9021477,Sodium tetrafluoroborate,,Missing
+DTXSID7028774,DSSTox_Substance_Id,DTXSID7028774,Alkyl (C12-C14) glycidyl ether,,Missing
+DTXSID5028665,DSSTox_Substance_Id,DTXSID5028665,DINP branched,,Missing
+DTXSID4027866,DSSTox_Substance_Id,DTXSID4027866,Diethylbenzene,,Missing
+DTXSID0021175,DSSTox_Substance_Id,DTXSID0021175,Polysorbate 80,,Missing
+DTXSID6027713,DSSTox_Substance_Id,DTXSID6027713,Poly(oxyethylene) monoleate,,Missing
+DTXSID6034005,DSSTox_Substance_Id,DTXSID6034005,Sulfamic acid,,Missing
+DTXSID3027902,DSSTox_Substance_Id,DTXSID3027902,Methylcyclopentadiene dimer,,Missing
+DTXSID3031521,DSSTox_Substance_Id,DTXSID3031521,Lead(II) acetate trihydrate,,Missing
+DTXSID3027877,DSSTox_Substance_Id,DTXSID3027877,Diisodecylphenyl phosphite,,Missing
+DTXSID3027875,DSSTox_Substance_Id,DTXSID3027875,Glyceryl monooleate,,Missing
+DTXSID0029210,DSSTox_Substance_Id,DTXSID0029210,Butyltin trichloride,,Missing
+DTXSID4047179,DSSTox_Substance_Id,DTXSID4047179,Isocetyl stearate,,Missing
+DTXSID6027923,DSSTox_Substance_Id,DTXSID6027923,Dodecylbenzenesulfonic acid,,Missing
+DTXSID8033566,DSSTox_Substance_Id,DTXSID8033566,Indium trichloride,,Missing
+DTXSID5024263,DSSTox_Substance_Id,DTXSID5024263,Phosphoric acid,,Missing
+DTXSID4024515,DSSTox_Substance_Id,DTXSID4024515,Ammonium perchlorate,,Missing
+DTXSID1027926,DSSTox_Substance_Id,DTXSID1027926,n-Dodecylphenol,,Missing
